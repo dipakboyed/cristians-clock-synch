@@ -1,0 +1,11 @@
+Master Name = 128.208.1.139
+Master Send Port = 20010
+Slave Rcv Port = 20011
+U = 350 milliseconds
+k = 10
+W = 1000 milliseconds
+DoS Target Host Name = 67.168.70.86
+DoS Target Port = 80
+AttackLifetime = 5 minute(s)
+Attack Mode = UDP
+Couldn't get I/O for the connection to: 128.208.1.139port: 20010

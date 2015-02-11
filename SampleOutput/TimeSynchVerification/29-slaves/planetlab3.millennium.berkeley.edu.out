@@ -1,0 +1,4304 @@
+Master Name = 128.208.1.139
+Master Send Port = 20010
+Slave Rcv Port = 20100
+U = 350 milliseconds
+k = 10
+W = 1000 milliseconds
+DoS Target Host Name = 67.168.70.86
+DoS Target Port = 80
+AttackLifetime = 5 minute(s)
+Attack Mode = UDP
+Synch: Sending query: time=?;1
+Received reply: time=;1146625737460;1
+Synch Success: SAftr=1146625737490, SBfr=1146625737449, D=20, M=1146625737460
+Scheduled a DoS to fire after 491ms
+Synch: Sending query: time=?;2
+Received reply: time=;1146625737854;2
+Synch Success: SAftr=1146625737884, SBfr=1146625737844, D=20, M=1146625737854
+Scheduled a DoS to fire after 122ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625738002 1
+Synch: Sending query: time=?;3
+Received reply: time=;1146625738227;3
+Synch Success: SAftr=1146625738268, SBfr=1146625738217, D=25, M=1146625738227
+Scheduled a DoS to fire after 246ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625738502 2
+Synch: Sending query: time=?;4
+Received reply: time=;1146625738605;4
+Synch Success: SAftr=1146625738635, SBfr=1146625738594, D=20, M=1146625738605
+Scheduled a DoS to fire after 374ms
+Synch: Sending query: time=?;5
+Received reply: time=;1146625738968;5
+Synch Success: SAftr=1146625738999, SBfr=1146625738958, D=20, M=1146625738968
+Scheduled a DoS to fire after 11ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625739001 3
+Synch: Sending query: time=?;6
+Received reply: time=;1146625739333;6
+Synch Success: SAftr=1146625739390, SBfr=1146625739322, D=34, M=1146625739333
+Scheduled a DoS to fire after 128ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625739502 4
+Synch: Sending query: time=?;7
+Received reply: time=;1146625739727;7
+Synch Success: SAftr=1146625739757, SBfr=1146625739717, D=20, M=1146625739727
+Scheduled a DoS to fire after 252ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625740001 5
+Synch: Sending query: time=?;8
+Received reply: time=;1146625740091;8
+Synch Success: SAftr=1146625740122, SBfr=1146625740081, D=20, M=1146625740091
+Scheduled a DoS to fire after 387ms
+Synch: Sending query: time=?;9
+Received reply: time=;1146625740460;9
+Synch Success: SAftr=1146625740491, SBfr=1146625740450, D=20, M=1146625740460
+Scheduled a DoS to fire after 3ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625740506 6
+Synch: Sending query: time=?;10
+Received reply: time=;1146625740842;10
+Synch Success: SAftr=1146625740872, SBfr=1146625740831, D=20, M=1146625740842
+Scheduled a DoS to fire after 136ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625741002 7
+Synch: Sending query: time=?;11
+Received reply: time=;1146625741223;11
+Synch Success: SAftr=1146625741254, SBfr=1146625741195, D=29, M=1146625741223
+Scheduled a DoS to fire after 225ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625741504 8
+Synch: Sending query: time=?;12
+Received reply: time=;1146625741613;12
+Synch Success: SAftr=1146625741643, SBfr=1146625741603, D=20, M=1146625741613
+Scheduled a DoS to fire after 366ms
+Synch: Sending query: time=?;13
+Received reply: time=;1146625741977;13
+Synch Success: SAftr=1146625742007, SBfr=1146625741966, D=20, M=1146625741977
+Scheduled a DoS to fire after 500ms
+Synch: Sending query: time=?;14
+Received reply: time=;1146625742346;14
+Synch Success: SAftr=1146625742376, SBfr=1146625742335, D=20, M=1146625742346
+Scheduled a DoS to fire after 133ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625742502 9
+Synch: Sending query: time=?;15
+Received reply: time=;1146625742714;15
+Synch Success: SAftr=1146625742744, SBfr=1146625742703, D=20, M=1146625742714
+Scheduled a DoS to fire after 264ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625743002 10
+Synch: Sending query: time=?;16
+Received reply: time=;1146625743079;16
+Synch Success: SAftr=1146625743113, SBfr=1146625743068, D=22, M=1146625743079
+Scheduled a DoS to fire after 395ms
+Synch: Sending query: time=?;17
+Received reply: time=;1146625743451;17
+Synch Success: SAftr=1146625743481, SBfr=1146625743440, D=20, M=1146625743451
+Scheduled a DoS to fire after 25ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625743504 11
+Synch: Sending query: time=?;18
+Received reply: time=;1146625743818;18
+Synch Success: SAftr=1146625743848, SBfr=1146625743808, D=20, M=1146625743818
+Scheduled a DoS to fire after 157ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625744001 12
+Synch: Sending query: time=?;19
+Received reply: time=;1146625744187;19
+Synch Success: SAftr=1146625744217, SBfr=1146625744176, D=20, M=1146625744187
+Scheduled a DoS to fire after 290ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625744503 13
+Synch: Sending query: time=?;20
+Received reply: time=;1146625744576;20
+Synch Success: SAftr=1146625744606, SBfr=1146625744566, D=20, M=1146625744576
+Scheduled a DoS to fire after 403ms
+Synch: Sending query: time=?;21
+Received reply: time=;1146625744945;21
+Synch Success: SAftr=1146625744975, SBfr=1146625744933, D=21, M=1146625744945
+Scheduled a DoS to fire after 32ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625745010 14
+Synch: Sending query: time=?;22
+Received reply: time=;1146625745310;22
+Synch Success: SAftr=1146625745340, SBfr=1146625745300, D=20, M=1146625745310
+Scheduled a DoS to fire after 168ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625745502 15
+Synch: Sending query: time=?;23
+Received reply: time=;1146625745674;23
+Synch Success: SAftr=1146625745704, SBfr=1146625745664, D=20, M=1146625745674
+Scheduled a DoS to fire after 302ms
+Synch: Sending query: time=?;24
+Received reply: time=;1146625746040;24
+Synch Success: SAftr=1146625746114, SBfr=1146625746030, D=42, M=1146625746040
+Scheduled a DoS to fire after 414ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625746001 16
+Synch: Sending query: time=?;25
+Received reply: time=;1146625746451;25
+Synch Success: SAftr=1146625746481, SBfr=1146625746440, D=20, M=1146625746451
+Scheduled a DoS to fire after 28ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625746502 17
+Synch: Sending query: time=?;26
+Received reply: time=;1146625746815;26
+Synch Success: SAftr=1146625746845, SBfr=1146625746804, D=20, M=1146625746815
+Scheduled a DoS to fire after 164ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625747002 18
+Synch: Sending query: time=?;27
+Received reply: time=;1146625747180;27
+Synch Success: SAftr=1146625747211, SBfr=1146625747168, D=21, M=1146625747180
+Scheduled a DoS to fire after 298ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625747502 19
+Synch: Sending query: time=?;28
+Received reply: time=;1146625747581;28
+Synch Success: SAftr=1146625747618, SBfr=1146625747571, D=23, M=1146625747581
+Scheduled a DoS to fire after 335ms
+Synch: Sending query: time=?;29
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625748001 20
+Received reply: time=;1146625748013;29
+Synch Success: SAftr=1146625748043, SBfr=1146625748003, D=20, M=1146625748013
+Scheduled a DoS to fire after 465ms
+Synch: Sending query: time=?;30
+Received reply: time=;1146625748388;30
+Synch Success: SAftr=1146625748418, SBfr=1146625748377, D=20, M=1146625748388
+Scheduled a DoS to fire after 91ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625748502 21
+Synch: Sending query: time=?;31
+Received reply: time=;1146625748751;31
+Synch Success: SAftr=1146625748781, SBfr=1146625748741, D=20, M=1146625748751
+Scheduled a DoS to fire after 227ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625749001 22
+Synch: Sending query: time=?;32
+Received reply: time=;1146625749116;32
+Synch Success: SAftr=1146625749149, SBfr=1146625749105, D=22, M=1146625749116
+Scheduled a DoS to fire after 359ms
+Synch: Sending query: time=?;33
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625749501 23
+Received reply: time=;1146625749484;33
+Synch Success: SAftr=1146625749514, SBfr=1146625749473, D=20, M=1146625749484
+Scheduled a DoS to fire after 489ms
+Synch: Sending query: time=?;34
+Received reply: time=;1146625749854;34
+Synch Success: SAftr=1146625749884, SBfr=1146625749843, D=20, M=1146625749854
+Scheduled a DoS to fire after 117ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625750002 24
+Synch: Sending query: time=?;35
+Received reply: time=;1146625750229;35
+Synch Success: SAftr=1146625750259, SBfr=1146625750218, D=20, M=1146625750229
+Scheduled a DoS to fire after 248ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625750501 25
+Synch: Sending query: time=?;36
+Received reply: time=;1146625750594;36
+Synch Success: SAftr=1146625750627, SBfr=1146625750583, D=22, M=1146625750594
+Scheduled a DoS to fire after 382ms
+Synch: Sending query: time=?;37
+Received reply: time=;1146625750962;37
+Synch Success: SAftr=1146625750992, SBfr=1146625750951, D=20, M=1146625750962
+Scheduled a DoS to fire after 15ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625751015 26
+Synch: Sending query: time=?;38
+Received reply: time=;1146625751327;38
+Synch Success: SAftr=1146625751357, SBfr=1146625751316, D=20, M=1146625751327
+Scheduled a DoS to fire after 150ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625751501 27
+Synch: Sending query: time=?;39
+Received reply: time=;1146625751692;39
+Synch Success: SAftr=1146625751721, SBfr=1146625751681, D=20, M=1146625751692
+Scheduled a DoS to fire after 284ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625752001 28
+Synch: Sending query: time=?;40
+Received reply: time=;1146625752057;40
+Synch Success: SAftr=1146625752089, SBfr=1146625752046, D=21, M=1146625752057
+Scheduled a DoS to fire after 410ms
+Synch: Sending query: time=?;41
+Received reply: time=;1146625752434;41
+Synch Success: SAftr=1146625752464, SBfr=1146625752423, D=20, M=1146625752434
+Scheduled a DoS to fire after 39ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625752503 29
+Synch: Sending query: time=?;42
+Received reply: time=;1146625752803;42
+Synch Success: SAftr=1146625752833, SBfr=1146625752793, D=20, M=1146625752803
+Scheduled a DoS to fire after 171ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625753002 30
+Synch: Sending query: time=?;43
+Received reply: time=;1146625753170;43
+Synch Success: SAftr=1146625753200, SBfr=1146625753160, D=20, M=1146625753170
+Scheduled a DoS to fire after 307ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625753501 31
+Synch: Sending query: time=?;44
+Received reply: time=;1146625753539;44
+Synch Success: SAftr=1146625753575, SBfr=1146625753529, D=23, M=1146625753539
+Scheduled a DoS to fire after 435ms
+Synch: Sending query: time=?;45
+Received reply: time=;1146625753917;45
+Synch Success: SAftr=1146625753948, SBfr=1146625753907, D=20, M=1146625753917
+Scheduled a DoS to fire after 56ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625754001 32
+Synch: Sending query: time=?;46
+Received reply: time=;1146625754287;46
+Synch Success: SAftr=1146625754317, SBfr=1146625754277, D=20, M=1146625754287
+Scheduled a DoS to fire after 191ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625754501 33
+Synch: Sending query: time=?;47
+Received reply: time=;1146625754651;47
+Synch Success: SAftr=1146625754682, SBfr=1146625754641, D=20, M=1146625754651
+Scheduled a DoS to fire after 316ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625755002 34
+Synch: Sending query: time=?;48
+Received reply: time=;1146625755027;48
+Synch Success: SAftr=1146625755058, SBfr=1146625755017, D=20, M=1146625755027
+Scheduled a DoS to fire after 443ms
+Synch: Sending query: time=?;49
+Received reply: time=;1146625755401;49
+Synch Success: SAftr=1146625755432, SBfr=1146625755391, D=20, M=1146625755401
+Scheduled a DoS to fire after 73ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625755502 35
+Synch: Sending query: time=?;50
+Received reply: time=;1146625755770;50
+Synch Success: SAftr=1146625755799, SBfr=1146625755760, D=19, M=1146625755770
+Scheduled a DoS to fire after 207ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625756002 36
+Synch: Sending query: time=?;51
+Received reply: time=;1146625756136;51
+Synch Success: SAftr=1146625756166, SBfr=1146625756126, D=20, M=1146625756136
+Scheduled a DoS to fire after 343ms
+Synch: Sending query: time=?;52
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625756501 37
+Received reply: time=;1146625756499;52
+Synch Success: SAftr=1146625756529, SBfr=1146625756489, D=20, M=1146625756499
+Scheduled a DoS to fire after 480ms
+Synch: Sending query: time=?;53
+Received reply: time=;1146625756864;53
+Synch Success: SAftr=1146625756894, SBfr=1146625756854, D=20, M=1146625756864
+Scheduled a DoS to fire after 114ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625757001 38
+Synch: Sending query: time=?;54
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625757502 39
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625758003 40
+Attempt: Sending query: time=?;55
+Received reply: time=;1146625758252;55
+Synch Success: SAftr=1146625758287, SBfr=1146625758242, D=22, M=1146625758252
+Scheduled a DoS to fire after 220ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625758501 41
+Synch: Sending query: time=?;56
+Received reply: time=;1146625758626;56
+Synch Success: SAftr=1146625758656, SBfr=1146625758615, D=20, M=1146625758626
+Scheduled a DoS to fire after 351ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625759002 42
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625759504 43
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625760007 44
+Received reply: time=;1146625757228;54
+Synch Failure: sn and snPrime are not equal
+Synch: Sending query: time=?;57
+Received reply: time=;1146625760295;57
+Synch Success: SAftr=1146625760325, SBfr=1146625760284, D=20, M=1146625760295
+Scheduled a DoS to fire after 184ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625760502 45
+Synch: Sending query: time=?;58
+Received reply: time=;1146625760658;58
+Synch Success: SAftr=1146625760688, SBfr=1146625760648, D=20, M=1146625760658
+Scheduled a DoS to fire after 319ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625761002 46
+Synch: Sending query: time=?;59
+Received reply: time=;1146625761025;59
+Synch Success: SAftr=1146625761054, SBfr=1146625761015, D=19, M=1146625761025
+Scheduled a DoS to fire after 454ms
+Synch: Sending query: time=?;60
+Received reply: time=;1146625761392;60
+Synch Success: SAftr=1146625761445, SBfr=1146625761378, D=33, M=1146625761392
+Scheduled a DoS to fire after 73ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625761502 47
+Synch: Sending query: time=?;61
+Received reply: time=;1146625761779;61
+Synch Success: SAftr=1146625761808, SBfr=1146625761768, D=20, M=1146625761779
+Scheduled a DoS to fire after 200ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625762002 48
+Synch: Sending query: time=?;62
+Received reply: time=;1146625762142;62
+Synch Success: SAftr=1146625762171, SBfr=1146625762131, D=20, M=1146625762142
+Scheduled a DoS to fire after 337ms
+Synch: Sending query: time=?;63
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625762511 49
+Received reply: time=;1146625762510;63
+Synch Success: SAftr=1146625762539, SBfr=1146625762499, D=20, M=1146625762510
+Scheduled a DoS to fire after 463ms
+Synch: Sending query: time=?;64
+Received reply: time=;1146625762878;64
+Synch Success: SAftr=1146625762908, SBfr=1146625762868, D=20, M=1146625762878
+Scheduled a DoS to fire after 99ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625763002 50
+Synch: Sending query: time=?;65
+Received reply: time=;1146625763246;65
+Synch Success: SAftr=1146625763276, SBfr=1146625763236, D=20, M=1146625763246
+Scheduled a DoS to fire after 232ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625763501 51
+Synch: Sending query: time=?;66
+Received reply: time=;1146625763616;66
+Synch Success: SAftr=1146625763649, SBfr=1146625763606, D=21, M=1146625763616
+Scheduled a DoS to fire after 317ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625764002 52
+Synch: Sending query: time=?;67
+Received reply: time=;1146625764028;67
+Synch Success: SAftr=1146625764058, SBfr=1146625764018, D=20, M=1146625764028
+Scheduled a DoS to fire after 450ms
+Synch: Sending query: time=?;68
+Received reply: time=;1146625764392;68
+Synch Success: SAftr=1146625764423, SBfr=1146625764382, D=20, M=1146625764392
+Scheduled a DoS to fire after 86ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625764502 53
+Synch: Sending query: time=?;69
+Received reply: time=;1146625764759;69
+Synch Success: SAftr=1146625764789, SBfr=1146625764748, D=20, M=1146625764759
+Scheduled a DoS to fire after 219ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625765002 54
+Synch: Sending query: time=?;70
+Received reply: time=;1146625765126;70
+Synch Success: SAftr=1146625765156, SBfr=1146625765116, D=20, M=1146625765126
+Scheduled a DoS to fire after 346ms
+Synch: Sending query: time=?;71
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625765502 55
+Received reply: time=;1146625765514;71
+Synch Success: SAftr=1146625765543, SBfr=1146625765504, D=19, M=1146625765514
+Scheduled a DoS to fire after 466ms
+Synch: Sending query: time=?;72
+Received reply: time=;1146625765877;72
+Synch Success: SAftr=1146625765909, SBfr=1146625765867, D=21, M=1146625765877
+Scheduled a DoS to fire after 101ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625766001 56
+Synch: Sending query: time=?;73
+Received reply: time=;1146625766246;73
+Synch Success: SAftr=1146625766276, SBfr=1146625766236, D=20, M=1146625766246
+Scheduled a DoS to fire after 231ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625766501 57
+Synch: Sending query: time=?;74
+Received reply: time=;1146625766611;74
+Synch Success: SAftr=1146625766641, SBfr=1146625766601, D=20, M=1146625766611
+Scheduled a DoS to fire after 368ms
+Synch: Sending query: time=?;75
+Received reply: time=;1146625766975;75
+Synch Success: SAftr=1146625767007, SBfr=1146625766964, D=21, M=1146625766975
+Scheduled a DoS to fire after 498ms
+Synch: Sending query: time=?;76
+Received reply: time=;1146625767352;76
+Synch Success: SAftr=1146625767381, SBfr=1146625767341, D=20, M=1146625767352
+Scheduled a DoS to fire after 127ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625767501 58
+Synch: Sending query: time=?;77
+Received reply: time=;1146625767715;77
+Synch Success: SAftr=1146625767745, SBfr=1146625767704, D=20, M=1146625767715
+Scheduled a DoS to fire after 259ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625768003 59
+Synch: Sending query: time=?;78
+Received reply: time=;1146625768084;78
+Synch Success: SAftr=1146625768114, SBfr=1146625768074, D=20, M=1146625768084
+Scheduled a DoS to fire after 394ms
+Synch: Sending query: time=?;79
+Received reply: time=;1146625768447;79
+Synch Success: SAftr=1146625768477, SBfr=1146625768437, D=20, M=1146625768447
+Scheduled a DoS to fire after 29ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625768501 60
+Synch: Sending query: time=?;80
+Received reply: time=;1146625768813;80
+Synch Success: SAftr=1146625768843, SBfr=1146625768803, D=20, M=1146625768813
+Scheduled a DoS to fire after 166ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625769002 61
+Synch: Sending query: time=?;81
+Received reply: time=;1146625769182;81
+Synch Success: SAftr=1146625769214, SBfr=1146625769172, D=21, M=1146625769182
+Scheduled a DoS to fire after 294ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625769504 62
+Synch: Sending query: time=?;82
+Received reply: time=;1146625769549;82
+Synch Success: SAftr=1146625769579, SBfr=1146625769539, D=20, M=1146625769549
+Scheduled a DoS to fire after 427ms
+Synch: Sending query: time=?;83
+Received reply: time=;1146625769918;83
+Synch Success: SAftr=1146625769948, SBfr=1146625769908, D=20, M=1146625769918
+Scheduled a DoS to fire after 60ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625770002 63
+Synch: Sending query: time=?;84
+Received reply: time=;1146625770284;84
+Synch Success: SAftr=1146625770317, SBfr=1146625770272, D=22, M=1146625770284
+Scheduled a DoS to fire after 183ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625770501 64
+Synch: Sending query: time=?;85
+Received reply: time=;1146625770662;85
+Synch Success: SAftr=1146625770691, SBfr=1146625770651, D=20, M=1146625770662
+Scheduled a DoS to fire after 317ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625771001 65
+Synch: Sending query: time=?;86
+Received reply: time=;1146625771027;86
+Synch Success: SAftr=1146625771059, SBfr=1146625771016, D=21, M=1146625771027
+Scheduled a DoS to fire after 447ms
+Synch: Sending query: time=?;87
+Received reply: time=;1146625771398;87
+Synch Success: SAftr=1146625771428, SBfr=1146625771386, D=21, M=1146625771398
+Scheduled a DoS to fire after 55ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625771502 66
+Synch: Sending query: time=?;88
+Received reply: time=;1146625771786;88
+Synch Success: SAftr=1146625771817, SBfr=1146625771776, D=20, M=1146625771786
+Scheduled a DoS to fire after 192ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625772010 67
+Synch: Sending query: time=?;89
+Received reply: time=;1146625772153;89
+Synch Success: SAftr=1146625772183, SBfr=1146625772143, D=20, M=1146625772153
+Scheduled a DoS to fire after 322ms
+Synch: Sending query: time=?;90
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625772501 68
+Received reply: time=;1146625772522;90
+Synch Success: SAftr=1146625772553, SBfr=1146625772510, D=21, M=1146625772522
+Scheduled a DoS to fire after 453ms
+Synch: Sending query: time=?;91
+Received reply: time=;1146625772889;91
+Synch Success: SAftr=1146625772919, SBfr=1146625772879, D=20, M=1146625772889
+Scheduled a DoS to fire after 88ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625773002 69
+Synch: Sending query: time=?;92
+Received reply: time=;1146625773256;92
+Synch Success: SAftr=1146625773287, SBfr=1146625773246, D=20, M=1146625773256
+Scheduled a DoS to fire after 221ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625773502 70
+Synch: Sending query: time=?;93
+Received reply: time=;1146625773623;93
+Synch Success: SAftr=1146625773654, SBfr=1146625773613, D=20, M=1146625773623
+Scheduled a DoS to fire after 351ms
+Synch: Sending query: time=?;94
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625774004 71
+Received reply: time=;1146625773993;94
+Synch Success: SAftr=1146625774026, SBfr=1146625773983, D=21, M=1146625773993
+Scheduled a DoS to fire after 482ms
+Synch: Sending query: time=?;95
+Received reply: time=;1146625774362;95
+Synch Success: SAftr=1146625774391, SBfr=1146625774352, D=19, M=1146625774362
+Scheduled a DoS to fire after 117ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625774505 72
+Synch: Sending query: time=?;96
+Received reply: time=;1146625774725;96
+Synch Success: SAftr=1146625774755, SBfr=1146625774714, D=20, M=1146625774725
+Scheduled a DoS to fire after 254ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625775008 73
+Synch: Sending query: time=?;97
+Received reply: time=;1146625775088;97
+Synch Success: SAftr=1146625775119, SBfr=1146625775078, D=20, M=1146625775088
+Scheduled a DoS to fire after 389ms
+Synch: Sending query: time=?;98
+Received reply: time=;1146625775457;98
+Synch Success: SAftr=1146625775491, SBfr=1146625775445, D=23, M=1146625775457
+Scheduled a DoS to fire after 497ms
+Synch: Sending query: time=?;99
+Received reply: time=;1146625775845;99
+Synch Success: SAftr=1146625775880, SBfr=1146625775835, D=22, M=1146625775845
+Scheduled a DoS to fire after 129ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625776001 74
+Synch: Sending query: time=?;100
+Received reply: time=;1146625776217;100
+Synch Success: SAftr=1146625776246, SBfr=1146625776206, D=20, M=1146625776217
+Scheduled a DoS to fire after 260ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625776501 75
+Synch: Sending query: time=?;101
+Received reply: time=;1146625776583;101
+Synch Success: SAftr=1146625776615, SBfr=1146625776572, D=21, M=1146625776583
+Scheduled a DoS to fire after 393ms
+Synch: Sending query: time=?;102
+Received reply: time=;1146625776954;102
+Synch Success: SAftr=1146625776984, SBfr=1146625776944, D=20, M=1146625776954
+Scheduled a DoS to fire after 23ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625777002 76
+Synch: Sending query: time=?;103
+Received reply: time=;1146625777319;103
+Synch Success: SAftr=1146625777348, SBfr=1146625777308, D=20, M=1146625777319
+Scheduled a DoS to fire after 158ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625777503 77
+Synch: Sending query: time=?;104
+Received reply: time=;1146625777686;104
+Synch Success: SAftr=1146625777720, SBfr=1146625777676, D=22, M=1146625777686
+Scheduled a DoS to fire after 290ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625778002 78
+Synch: Sending query: time=?;105
+Received reply: time=;1146625778055;105
+Synch Success: SAftr=1146625778087, SBfr=1146625778045, D=21, M=1146625778055
+Scheduled a DoS to fire after 421ms
+Synch: Sending query: time=?;106
+Received reply: time=;1146625778424;106
+Synch Success: SAftr=1146625778454, SBfr=1146625778414, D=20, M=1146625778424
+Scheduled a DoS to fire after 54ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625778501 79
+Synch: Sending query: time=?;107
+Received reply: time=;1146625778788;107
+Synch Success: SAftr=1146625778818, SBfr=1146625778778, D=20, M=1146625778788
+Scheduled a DoS to fire after 190ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625779008 80
+Synch: Sending query: time=?;108
+Received reply: time=;1146625779154;108
+Synch Success: SAftr=1146625779184, SBfr=1146625779142, D=21, M=1146625779154
+Scheduled a DoS to fire after 324ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625779503 81
+Synch: Sending query: time=?;109
+Received reply: time=;1146625779527;109
+Synch Success: SAftr=1146625779556, SBfr=1146625779516, D=20, M=1146625779527
+Scheduled a DoS to fire after 450ms
+Synch: Sending query: time=?;110
+Received reply: time=;1146625779892;110
+Synch Success: SAftr=1146625779921, SBfr=1146625779881, D=20, M=1146625779892
+Scheduled a DoS to fire after 87ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625780013 82
+Synch: Sending query: time=?;111
+Received reply: time=;1146625780258;111
+Synch Success: SAftr=1146625780287, SBfr=1146625780246, D=20, M=1146625780258
+Scheduled a DoS to fire after 218ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625780501 83
+Synch: Sending query: time=?;112
+Received reply: time=;1146625780623;112
+Synch Success: SAftr=1146625780657, SBfr=1146625780612, D=22, M=1146625780623
+Scheduled a DoS to fire after 352ms
+Synch: Sending query: time=?;113
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625781002 84
+Received reply: time=;1146625780995;113
+Synch Success: SAftr=1146625781025, SBfr=1146625780985, D=20, M=1146625780995
+Scheduled a DoS to fire after 485ms
+Synch: Sending query: time=?;114
+Received reply: time=;1146625781358;114
+Synch Success: SAftr=1146625781388, SBfr=1146625781348, D=20, M=1146625781358
+Scheduled a DoS to fire after 121ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625781502 85
+Synch: Sending query: time=?;115
+Received reply: time=;1146625781723;115
+Synch Success: SAftr=1146625781753, SBfr=1146625781711, D=21, M=1146625781723
+Scheduled a DoS to fire after 252ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625782002 86
+Synch: Sending query: time=?;116
+Received reply: time=;1146625782094;116
+Synch Success: SAftr=1146625782126, SBfr=1146625782084, D=21, M=1146625782094
+Scheduled a DoS to fire after 385ms
+Synch: Sending query: time=?;117
+Received reply: time=;1146625782459;117
+Synch Success: SAftr=1146625782489, SBfr=1146625782449, D=20, M=1146625782459
+Scheduled a DoS to fire after 20ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625782520 87
+Synch: Sending query: time=?;118
+Received reply: time=;1146625782823;118
+Synch Success: SAftr=1146625782853, SBfr=1146625782812, D=20, M=1146625782823
+Scheduled a DoS to fire after 155ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625783001 88
+Synch: Sending query: time=?;119
+Received reply: time=;1146625783189;119
+Synch Success: SAftr=1146625783225, SBfr=1146625783177, D=24, M=1146625783189
+Scheduled a DoS to fire after 284ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625783502 89
+Synch: Sending query: time=?;120
+Received reply: time=;1146625783560;120
+Synch Success: SAftr=1146625783589, SBfr=1146625783550, D=19, M=1146625783560
+Scheduled a DoS to fire after 420ms
+Synch: Sending query: time=?;121
+Received reply: time=;1146625783922;121
+Synch Success: SAftr=1146625783951, SBfr=1146625783912, D=19, M=1146625783922
+Scheduled a DoS to fire after 50ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625784001 90
+Synch: Sending query: time=?;122
+Received reply: time=;1146625784301;122
+Synch Success: SAftr=1146625784334, SBfr=1146625784290, D=22, M=1146625784301
+Scheduled a DoS to fire after 175ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625784506 91
+Synch: Sending query: time=?;123
+Received reply: time=;1146625784685;123
+Synch Success: SAftr=1146625784715, SBfr=1146625784674, D=20, M=1146625784685
+Scheduled a DoS to fire after 284ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625785001 92
+Synch: Sending query: time=?;124
+Received reply: time=;1146625785059;124
+Synch Success: SAftr=1146625785089, SBfr=1146625785048, D=20, M=1146625785059
+Scheduled a DoS to fire after 419ms
+Synch: Sending query: time=?;125
+Received reply: time=;1146625785423;125
+Synch Success: SAftr=1146625785453, SBfr=1146625785412, D=20, M=1146625785423
+Scheduled a DoS to fire after 56ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625785502 93
+Synch: Sending query: time=?;126
+Received reply: time=;1146625785787;126
+Synch Success: SAftr=1146625785817, SBfr=1146625785777, D=20, M=1146625785787
+Scheduled a DoS to fire after 192ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625786002 94
+Synch: Sending query: time=?;127
+Received reply: time=;1146625786155;127
+Synch Success: SAftr=1146625786186, SBfr=1146625786144, D=21, M=1146625786155
+Scheduled a DoS to fire after 320ms
+Synch: Sending query: time=?;128
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625786502 95
+Received reply: time=;1146625786522;128
+Synch Success: SAftr=1146625786561, SBfr=1146625786512, D=24, M=1146625786522
+Scheduled a DoS to fire after 436ms
+Synch: Sending query: time=?;129
+Received reply: time=;1146625786914;129
+Synch Success: SAftr=1146625786944, SBfr=1146625786903, D=20, M=1146625786914
+Scheduled a DoS to fire after 65ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625787004 96
+Synch: Sending query: time=?;130
+Received reply: time=;1146625787277;130
+Synch Success: SAftr=1146625787306, SBfr=1146625787266, D=20, M=1146625787277
+Scheduled a DoS to fire after 202ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625787502 97
+Synch: Sending query: time=?;131
+Received reply: time=;1146625787643;131
+Synch Success: SAftr=1146625787673, SBfr=1146625787633, D=20, M=1146625787643
+Scheduled a DoS to fire after 335ms
+Synch: Sending query: time=?;132
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625788002 98
+Received reply: time=;1146625788008;132
+Synch Success: SAftr=1146625788038, SBfr=1146625787998, D=20, M=1146625788008
+Scheduled a DoS to fire after 472ms
+Synch: Sending query: time=?;133
+Received reply: time=;1146625788370;133
+Synch Success: SAftr=1146625788400, SBfr=1146625788360, D=20, M=1146625788370
+Scheduled a DoS to fire after 109ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625788506 99
+Synch: Sending query: time=?;134
+Received reply: time=;1146625788734;134
+Synch Success: SAftr=1146625788766, SBfr=1146625788723, D=21, M=1146625788734
+Scheduled a DoS to fire after 240ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625789002 100
+Synch: Sending query: time=?;135
+Received reply: time=;1146625789103;135
+Synch Success: SAftr=1146625789135, SBfr=1146625789092, D=21, M=1146625789103
+Scheduled a DoS to fire after 375ms
+Synch: Sending query: time=?;136
+Received reply: time=;1146625789472;136
+Synch Success: SAftr=1146625789502, SBfr=1146625789458, D=22, M=1146625789472
+Scheduled a DoS to fire after 5ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625789501 101
+Synch: Sending query: time=?;137
+Received reply: time=;1146625789835;137
+Synch Success: SAftr=1146625789865, SBfr=1146625789825, D=20, M=1146625789835
+Scheduled a DoS to fire after 143ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625790002 102
+Synch: Sending query: time=?;138
+Received reply: time=;1146625790199;138
+Synch Success: SAftr=1146625790229, SBfr=1146625790189, D=20, M=1146625790199
+Scheduled a DoS to fire after 280ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625790502 103
+Synch: Sending query: time=?;139
+Received reply: time=;1146625790562;139
+Synch Success: SAftr=1146625790592, SBfr=1146625790552, D=20, M=1146625790562
+Scheduled a DoS to fire after 416ms
+Synch: Sending query: time=?;140
+Received reply: time=;1146625790927;140
+Synch Success: SAftr=1146625790957, SBfr=1146625790917, D=20, M=1146625790927
+Scheduled a DoS to fire after 52ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625791002 104
+Synch: Sending query: time=?;141
+Received reply: time=;1146625791292;141
+Synch Success: SAftr=1146625791322, SBfr=1146625791282, D=20, M=1146625791292
+Scheduled a DoS to fire after 187ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625791502 105
+Synch: Sending query: time=?;142
+Received reply: time=;1146625791658;142
+Synch Success: SAftr=1146625791688, SBfr=1146625791647, D=20, M=1146625791658
+Scheduled a DoS to fire after 321ms
+Synch: Sending query: time=?;143
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625792003 106
+Received reply: time=;1146625792023;143
+Synch Success: SAftr=1146625792063, SBfr=1146625792013, D=25, M=1146625792023
+Scheduled a DoS to fire after 442ms
+Synch: Sending query: time=?;144
+Received reply: time=;1146625792411;144
+Synch Success: SAftr=1146625792441, SBfr=1146625792401, D=20, M=1146625792411
+Scheduled a DoS to fire after 65ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625792510 107
+Synch: Sending query: time=?;145
+Received reply: time=;1146625792778;145
+Synch Success: SAftr=1146625792808, SBfr=1146625792768, D=20, M=1146625792778
+Scheduled a DoS to fire after 198ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625793002 108
+Synch: Sending query: time=?;146
+Received reply: time=;1146625793145;146
+Synch Success: SAftr=1146625793174, SBfr=1146625793134, D=20, M=1146625793145
+Scheduled a DoS to fire after 332ms
+Synch: Sending query: time=?;147
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625793501 109
+Received reply: time=;1146625793522;147
+Synch Success: SAftr=1146625793552, SBfr=1146625793499, D=26, M=1146625793522
+Scheduled a DoS to fire after 408ms
+Synch: Sending query: time=?;148
+Received reply: time=;1146625793929;148
+Synch Success: SAftr=1146625793959, SBfr=1146625793918, D=20, M=1146625793929
+Scheduled a DoS to fire after 50ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625794012 110
+Synch: Sending query: time=?;149
+Received reply: time=;1146625794293;149
+Synch Success: SAftr=1146625794323, SBfr=1146625794282, D=20, M=1146625794293
+Scheduled a DoS to fire after 186ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625794501 111
+Synch: Sending query: time=?;150
+Received reply: time=;1146625794656;150
+Synch Success: SAftr=1146625794686, SBfr=1146625794646, D=20, M=1146625794656
+Scheduled a DoS to fire after 323ms
+Synch: Sending query: time=?;151
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625795002 112
+Received reply: time=;1146625795019;151
+Synch Success: SAftr=1146625795049, SBfr=1146625795009, D=20, M=1146625795019
+Scheduled a DoS to fire after 454ms
+Synch: Sending query: time=?;152
+Received reply: time=;1146625795394;152
+Synch Success: SAftr=1146625795424, SBfr=1146625795384, D=20, M=1146625795394
+Scheduled a DoS to fire after 67ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625795507 113
+Synch: Sending query: time=?;153
+Received reply: time=;1146625795775;153
+Synch Success: SAftr=1146625795805, SBfr=1146625795765, D=20, M=1146625795775
+Scheduled a DoS to fire after 203ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625796001 114
+Synch: Sending query: time=?;154
+Received reply: time=;1146625796141;154
+Synch Success: SAftr=1146625796170, SBfr=1146625796131, D=19, M=1146625796141
+Scheduled a DoS to fire after 339ms
+Synch: Sending query: time=?;155
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625796501 115
+Received reply: time=;1146625796503;155
+Synch Success: SAftr=1146625796533, SBfr=1146625796493, D=20, M=1146625796503
+Scheduled a DoS to fire after 470ms
+Synch: Sending query: time=?;156
+Received reply: time=;1146625796873;156
+Synch Success: SAftr=1146625796904, SBfr=1146625796863, D=20, M=1146625796873
+Scheduled a DoS to fire after 105ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625797006 116
+Synch: Sending query: time=?;157
+Received reply: time=;1146625797241;157
+Synch Success: SAftr=1146625797272, SBfr=1146625797231, D=20, M=1146625797241
+Scheduled a DoS to fire after 237ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625797501 117
+Synch: Sending query: time=?;158
+Received reply: time=;1146625797606;158
+Synch Success: SAftr=1146625797652, SBfr=1146625797596, D=28, M=1146625797606
+Scheduled a DoS to fire after 365ms
+Synch: Sending query: time=?;159
+Received reply: time=;1146625797984;159
+Synch Success: SAftr=1146625798014, SBfr=1146625797974, D=20, M=1146625797984
+Scheduled a DoS to fire after 494ms
+Synch: Sending query: time=?;160
+Received reply: time=;1146625798353;160
+Synch Success: SAftr=1146625798383, SBfr=1146625798343, D=20, M=1146625798353
+Scheduled a DoS to fire after 121ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625798504 118
+Synch: Sending query: time=?;161
+Received reply: time=;1146625798721;161
+Synch Success: SAftr=1146625798760, SBfr=1146625798711, D=24, M=1146625798721
+Scheduled a DoS to fire after 252ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625799002 119
+Synch: Sending query: time=?;162
+Received reply: time=;1146625799096;162
+Synch Success: SAftr=1146625799126, SBfr=1146625799086, D=20, M=1146625799096
+Scheduled a DoS to fire after 382ms
+Synch: Sending query: time=?;163
+Received reply: time=;1146625799460;163
+Synch Success: SAftr=1146625799490, SBfr=1146625799450, D=20, M=1146625799460
+Scheduled a DoS to fire after 494ms
+Synch: Sending query: time=?;164
+Received reply: time=;1146625799848;164
+Synch Success: SAftr=1146625799878, SBfr=1146625799837, D=20, M=1146625799848
+Scheduled a DoS to fire after 129ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625800002 120
+Synch: Sending query: time=?;165
+Received reply: time=;1146625800214;165
+Synch Success: SAftr=1146625800243, SBfr=1146625800204, D=19, M=1146625800214
+Scheduled a DoS to fire after 265ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625800502 121
+Synch: Sending query: time=?;166
+Received reply: time=;1146625800577;166
+Synch Success: SAftr=1146625800607, SBfr=1146625800567, D=20, M=1146625800577
+Scheduled a DoS to fire after 401ms
+Synch: Sending query: time=?;167
+Received reply: time=;1146625800945;167
+Synch Success: SAftr=1146625800974, SBfr=1146625800935, D=19, M=1146625800945
+Scheduled a DoS to fire after 34ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625801002 122
+Synch: Sending query: time=?;168
+Received reply: time=;1146625801308;168
+Synch Success: SAftr=1146625801340, SBfr=1146625801298, D=21, M=1146625801308
+Scheduled a DoS to fire after 170ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625801501 123
+Synch: Sending query: time=?;169
+Received reply: time=;1146625801674;169
+Synch Success: SAftr=1146625801704, SBfr=1146625801663, D=20, M=1146625801674
+Scheduled a DoS to fire after 305ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625802001 124
+Synch: Sending query: time=?;170
+Received reply: time=;1146625802037;170
+Synch Success: SAftr=1146625802070, SBfr=1146625802026, D=22, M=1146625802037
+Scheduled a DoS to fire after 440ms
+Synch: Sending query: time=?;171
+Received reply: time=;1146625802403;171
+Synch Success: SAftr=1146625802433, SBfr=1146625802393, D=20, M=1146625802403
+Scheduled a DoS to fire after 76ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625802501 125
+Synch: Sending query: time=?;172
+Received reply: time=;1146625802771;172
+Synch Success: SAftr=1146625802801, SBfr=1146625802761, D=20, M=1146625802771
+Scheduled a DoS to fire after 206ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625803001 126
+Synch: Sending query: time=?;173
+Received reply: time=;1146625803136;173
+Synch Success: SAftr=1146625803169, SBfr=1146625803126, D=21, M=1146625803136
+Scheduled a DoS to fire after 339ms
+Synch: Sending query: time=?;174
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625803501 127
+Received reply: time=;1146625803511;174
+Synch Success: SAftr=1146625803541, SBfr=1146625803500, D=20, M=1146625803511
+Scheduled a DoS to fire after 468ms
+Synch: Sending query: time=?;175
+Received reply: time=;1146625803875;175
+Synch Success: SAftr=1146625803905, SBfr=1146625803864, D=20, M=1146625803875
+Scheduled a DoS to fire after 102ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625804001 128
+Synch: Sending query: time=?;176
+Received reply: time=;1146625804246;176
+Synch Success: SAftr=1146625804276, SBfr=1146625804236, D=20, M=1146625804246
+Scheduled a DoS to fire after 230ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625804501 129
+Synch: Sending query: time=?;177
+Received reply: time=;1146625804612;177
+Synch Success: SAftr=1146625804643, SBfr=1146625804602, D=20, M=1146625804612
+Scheduled a DoS to fire after 365ms
+Synch: Sending query: time=?;178
+Received reply: time=;1146625804978;178
+Synch Success: SAftr=1146625805008, SBfr=1146625804968, D=20, M=1146625804978
+Scheduled a DoS to fire after 498ms
+Synch: Sending query: time=?;179
+Received reply: time=;1146625805346;179
+Synch Success: SAftr=1146625805375, SBfr=1146625805336, D=19, M=1146625805346
+Scheduled a DoS to fire after 122ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625805502 130
+Synch: Sending query: time=?;180
+Received reply: time=;1146625805719;180
+Synch Success: SAftr=1146625805750, SBfr=1146625805709, D=20, M=1146625805719
+Scheduled a DoS to fire after 258ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625806002 131
+Synch: Sending query: time=?;181
+Received reply: time=;1146625806086;181
+Synch Success: SAftr=1146625806115, SBfr=1146625806075, D=20, M=1146625806086
+Scheduled a DoS to fire after 392ms
+Synch: Sending query: time=?;182
+Received reply: time=;1146625806449;182
+Synch Success: SAftr=1146625806480, SBfr=1146625806439, D=20, M=1146625806449
+Scheduled a DoS to fire after 29ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625806502 132
+Synch: Sending query: time=?;183
+Received reply: time=;1146625806814;183
+Synch Success: SAftr=1146625806844, SBfr=1146625806804, D=20, M=1146625806814
+Scheduled a DoS to fire after 165ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625807001 133
+Synch: Sending query: time=?;184
+Received reply: time=;1146625807177;184
+Synch Success: SAftr=1146625807209, SBfr=1146625807167, D=21, M=1146625807177
+Scheduled a DoS to fire after 300ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625807501 134
+Synch: Sending query: time=?;185
+Received reply: time=;1146625807544;185
+Synch Success: SAftr=1146625807574, SBfr=1146625807534, D=20, M=1146625807544
+Scheduled a DoS to fire after 435ms
+Synch: Sending query: time=?;186
+Received reply: time=;1146625807907;186
+Synch Success: SAftr=1146625807937, SBfr=1146625807897, D=20, M=1146625807907
+Scheduled a DoS to fire after 69ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625808002 135
+Synch: Sending query: time=?;187
+Received reply: time=;1146625808273;187
+Synch Success: SAftr=1146625808303, SBfr=1146625808263, D=20, M=1146625808273
+Scheduled a DoS to fire after 206ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625808502 136
+Synch: Sending query: time=?;188
+Received reply: time=;1146625808636;188
+Synch Success: SAftr=1146625808671, SBfr=1146625808626, D=22, M=1146625808636
+Scheduled a DoS to fire after 340ms
+Synch: Sending query: time=?;189
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625809001 137
+Received reply: time=;1146625809007;189
+Synch Success: SAftr=1146625809037, SBfr=1146625808997, D=20, M=1146625809007
+Scheduled a DoS to fire after 471ms
+Synch: Sending query: time=?;190
+Received reply: time=;1146625809381;190
+Synch Success: SAftr=1146625809411, SBfr=1146625809371, D=20, M=1146625809381
+Scheduled a DoS to fire after 98ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625809502 138
+Synch: Sending query: time=?;191
+Received reply: time=;1146625809744;191
+Synch Success: SAftr=1146625809773, SBfr=1146625809734, D=19, M=1146625809744
+Scheduled a DoS to fire after 236ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625810002 139
+Synch: Sending query: time=?;192
+Received reply: time=;1146625810106;192
+Synch Success: SAftr=1146625810137, SBfr=1146625810096, D=20, M=1146625810106
+Scheduled a DoS to fire after 370ms
+Synch: Sending query: time=?;193
+Received reply: time=;1146625810474;193
+Synch Success: SAftr=1146625810504, SBfr=1146625810463, D=20, M=1146625810474
+Scheduled a DoS to fire after 5ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625810501 140
+Synch: Sending query: time=?;194
+Received reply: time=;1146625810838;194
+Synch Success: SAftr=1146625810867, SBfr=1146625810827, D=20, M=1146625810838
+Scheduled a DoS to fire after 141ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625811002 141
+Synch: Sending query: time=?;195
+Received reply: time=;1146625811205;195
+Synch Success: SAftr=1146625811235, SBfr=1146625811190, D=22, M=1146625811205
+Scheduled a DoS to fire after 268ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625811501 142
+Synch: Sending query: time=?;196
+Received reply: time=;1146625811573;196
+Synch Success: SAftr=1146625811604, SBfr=1146625811563, D=20, M=1146625811573
+Scheduled a DoS to fire after 404ms
+Synch: Sending query: time=?;197
+Received reply: time=;1146625811939;197
+Synch Success: SAftr=1146625811981, SBfr=1146625811928, D=26, M=1146625811939
+Scheduled a DoS to fire after 25ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625812002 143
+Synch: Sending query: time=?;198
+Received reply: time=;1146625812323;198
+Synch Success: SAftr=1146625812355, SBfr=1146625812313, D=21, M=1146625812323
+Scheduled a DoS to fire after 154ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625812502 144
+Synch: Sending query: time=?;199
+Received reply: time=;1146625812690;199
+Synch Success: SAftr=1146625812720, SBfr=1146625812680, D=20, M=1146625812690
+Scheduled a DoS to fire after 286ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625813002 145
+Synch: Sending query: time=?;200
+Received reply: time=;1146625813056;200
+Synch Success: SAftr=1146625813086, SBfr=1146625813046, D=20, M=1146625813056
+Scheduled a DoS to fire after 419ms
+Synch: Sending query: time=?;201
+Received reply: time=;1146625813427;201
+Synch Success: SAftr=1146625813456, SBfr=1146625813417, D=19, M=1146625813427
+Scheduled a DoS to fire after 50ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625813501 146
+Synch: Sending query: time=?;202
+Received reply: time=;1146625813792;202
+Synch Success: SAftr=1146625813821, SBfr=1146625813782, D=19, M=1146625813792
+Scheduled a DoS to fire after 186ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625814002 147
+Synch: Sending query: time=?;203
+Received reply: time=;1146625814156;203
+Synch Success: SAftr=1146625814187, SBfr=1146625814146, D=20, M=1146625814156
+Scheduled a DoS to fire after 322ms
+Synch: Sending query: time=?;204
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625814502 148
+Received reply: time=;1146625814521;204
+Synch Success: SAftr=1146625814551, SBfr=1146625814511, D=20, M=1146625814521
+Scheduled a DoS to fire after 457ms
+Synch: Sending query: time=?;205
+Received reply: time=;1146625814885;205
+Synch Success: SAftr=1146625814915, SBfr=1146625814875, D=20, M=1146625814885
+Scheduled a DoS to fire after 93ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625815001 149
+Synch: Sending query: time=?;206
+Received reply: time=;1146625815250;206
+Synch Success: SAftr=1146625815280, SBfr=1146625815240, D=20, M=1146625815250
+Scheduled a DoS to fire after 228ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625815502 150
+Synch: Sending query: time=?;207
+Received reply: time=;1146625815615;207
+Synch Success: SAftr=1146625815646, SBfr=1146625815604, D=21, M=1146625815615
+Scheduled a DoS to fire after 360ms
+Synch: Sending query: time=?;208
+Received reply: time=;1146625815982;208
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625816002 151
+Synch Success: SAftr=1146625816013, SBfr=1146625815972, D=20, M=1146625815982
+Scheduled a DoS to fire after 492ms
+Synch: Sending query: time=?;209
+Received reply: time=;1146625816357;209
+Synch Success: SAftr=1146625816387, SBfr=1146625816347, D=20, M=1146625816357
+Scheduled a DoS to fire after 121ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625816502 152
+Synch: Sending query: time=?;210
+Received reply: time=;1146625816722;210
+Synch Success: SAftr=1146625816752, SBfr=1146625816711, D=20, M=1146625816722
+Scheduled a DoS to fire after 253ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625817002 153
+Synch: Sending query: time=?;211
+Received reply: time=;1146625817091;211
+Synch Success: SAftr=1146625817120, SBfr=1146625817078, D=21, M=1146625817091
+Scheduled a DoS to fire after 386ms
+Synch: Sending query: time=?;212
+Received reply: time=;1146625817456;212
+Synch Success: SAftr=1146625817486, SBfr=1146625817446, D=20, M=1146625817456
+Scheduled a DoS to fire after 20ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625817502 154
+Synch: Sending query: time=?;213
+Received reply: time=;1146625817822;213
+Synch Success: SAftr=1146625817852, SBfr=1146625817812, D=20, M=1146625817822
+Scheduled a DoS to fire after 157ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625818001 155
+Synch: Sending query: time=?;214
+Received reply: time=;1146625818185;214
+Synch Success: SAftr=1146625818215, SBfr=1146625818174, D=20, M=1146625818185
+Scheduled a DoS to fire after 292ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625818501 156
+Synch: Sending query: time=?;215
+Received reply: time=;1146625818553;215
+Synch Success: SAftr=1146625818583, SBfr=1146625818542, D=20, M=1146625818553
+Scheduled a DoS to fire after 425ms
+Synch: Sending query: time=?;216
+Received reply: time=;1146625818918;216
+Synch Success: SAftr=1146625818948, SBfr=1146625818908, D=20, M=1146625818918
+Scheduled a DoS to fire after 61ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625819001 157
+Synch: Sending query: time=?;217
+Received reply: time=;1146625819282;217
+Synch Success: SAftr=1146625819313, SBfr=1146625819272, D=20, M=1146625819282
+Scheduled a DoS to fire after 197ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625819501 158
+Synch: Sending query: time=?;218
+Received reply: time=;1146625819646;218
+Synch Success: SAftr=1146625819680, SBfr=1146625819635, D=22, M=1146625819646
+Scheduled a DoS to fire after 331ms
+Synch: Sending query: time=?;219
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625820001 159
+Received reply: time=;1146625820013;219
+Synch Success: SAftr=1146625820043, SBfr=1146625820003, D=20, M=1146625820013
+Scheduled a DoS to fire after 466ms
+Synch: Sending query: time=?;220
+Received reply: time=;1146625820377;220
+Synch Success: SAftr=1146625820406, SBfr=1146625820366, D=20, M=1146625820377
+Scheduled a DoS to fire after 99ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625820501 160
+Synch: Sending query: time=?;221
+Received reply: time=;1146625820743;221
+Synch Success: SAftr=1146625820772, SBfr=1146625820733, D=19, M=1146625820743
+Scheduled a DoS to fire after 234ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625821002 161
+Synch: Sending query: time=?;222
+Received reply: time=;1146625821108;222
+Synch Success: SAftr=1146625821138, SBfr=1146625821098, D=20, M=1146625821108
+Scheduled a DoS to fire after 370ms
+Synch: Sending query: time=?;223
+Received reply: time=;1146625821472;223
+Synch Success: SAftr=1146625821502, SBfr=1146625821462, D=20, M=1146625821472
+Scheduled a DoS to fire after 7ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625821501 162
+Synch: Sending query: time=?;224
+Received reply: time=;1146625821840;224
+Synch Success: SAftr=1146625821870, SBfr=1146625821830, D=20, M=1146625821840
+Scheduled a DoS to fire after 139ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625822005 163
+Synch: Sending query: time=?;225
+Received reply: time=;1146625822204;225
+Synch Success: SAftr=1146625822235, SBfr=1146625822194, D=20, M=1146625822204
+Scheduled a DoS to fire after 274ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625822505 164
+Synch: Sending query: time=?;226
+Received reply: time=;1146625822569;226
+Synch Success: SAftr=1146625822599, SBfr=1146625822559, D=20, M=1146625822569
+Scheduled a DoS to fire after 407ms
+Synch: Sending query: time=?;227
+Received reply: time=;1146625822937;227
+Synch Success: SAftr=1146625822966, SBfr=1146625822927, D=19, M=1146625822937
+Scheduled a DoS to fire after 42ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625823003 165
+Synch: Sending query: time=?;228
+Received reply: time=;1146625823300;228
+Synch Success: SAftr=1146625823330, SBfr=1146625823290, D=20, M=1146625823300
+Scheduled a DoS to fire after 177ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625823501 166
+Synch: Sending query: time=?;229
+Received reply: time=;1146625823664;229
+Synch Success: SAftr=1146625823694, SBfr=1146625823654, D=20, M=1146625823664
+Scheduled a DoS to fire after 305ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625824001 167
+Synch: Sending query: time=?;230
+Received reply: time=;1146625824039;230
+Synch Success: SAftr=1146625824068, SBfr=1146625824029, D=19, M=1146625824039
+Scheduled a DoS to fire after 438ms
+Synch: Sending query: time=?;231
+Received reply: time=;1146625824404;231
+Synch Success: SAftr=1146625824434, SBfr=1146625824394, D=20, M=1146625824404
+Scheduled a DoS to fire after 60ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625824502 168
+Synch: Sending query: time=?;232
+Received reply: time=;1146625824782;232
+Synch Success: SAftr=1146625824812, SBfr=1146625824772, D=20, M=1146625824782
+Scheduled a DoS to fire after 186ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625825002 169
+Synch: Sending query: time=?;233
+Received reply: time=;1146625825156;233
+Synch Success: SAftr=1146625825186, SBfr=1146625825146, D=20, M=1146625825156
+Scheduled a DoS to fire after 321ms
+Synch: Sending query: time=?;234
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625825503 170
+Received reply: time=;1146625825521;234
+Synch Success: SAftr=1146625825552, SBfr=1146625825511, D=20, M=1146625825521
+Scheduled a DoS to fire after 456ms
+Synch: Sending query: time=?;235
+Received reply: time=;1146625825888;235
+Synch Success: SAftr=1146625825922, SBfr=1146625825878, D=22, M=1146625825888
+Scheduled a DoS to fire after 86ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625826006 171
+Synch: Sending query: time=?;236
+Received reply: time=;1146625826259;236
+Synch Success: SAftr=1146625826289, SBfr=1146625826249, D=20, M=1146625826259
+Scheduled a DoS to fire after 218ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625826502 172
+Synch: Sending query: time=?;237
+Received reply: time=;1146625826627;237
+Synch Success: SAftr=1146625826657, SBfr=1146625826616, D=20, M=1146625826627
+Scheduled a DoS to fire after 345ms
+Synch: Sending query: time=?;238
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625827001 173
+Received reply: time=;1146625826997;238
+Synch Success: SAftr=1146625827027, SBfr=1146625826986, D=20, M=1146625826997
+Scheduled a DoS to fire after 480ms
+Synch: Sending query: time=?;239
+Received reply: time=;1146625827362;239
+Synch Success: SAftr=1146625827391, SBfr=1146625827351, D=20, M=1146625827362
+Scheduled a DoS to fire after 107ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625827501 174
+Synch: Sending query: time=?;240
+Received reply: time=;1146625827734;240
+Synch Success: SAftr=1146625827767, SBfr=1146625827723, D=22, M=1146625827734
+Scheduled a DoS to fire after 181ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625828002 175
+Synch: Sending query: time=?;241
+Received reply: time=;1146625828163;241
+Synch Success: SAftr=1146625828235, SBfr=1146625828152, D=41, M=1146625828163
+Scheduled a DoS to fire after 292ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625828501 176
+Synch: Sending query: time=?;242
+Received reply: time=;1146625828574;242
+Synch Success: SAftr=1146625828603, SBfr=1146625828563, D=20, M=1146625828574
+Scheduled a DoS to fire after 404ms
+Synch: Sending query: time=?;243
+Received reply: time=;1146625828936;243
+Synch Success: SAftr=1146625828966, SBfr=1146625828926, D=20, M=1146625828936
+Scheduled a DoS to fire after 42ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625829001 177
+Synch: Sending query: time=?;244
+Received reply: time=;1146625829299;244
+Synch Success: SAftr=1146625829329, SBfr=1146625829289, D=20, M=1146625829299
+Scheduled a DoS to fire after 179ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625829501 178
+Synch: Sending query: time=?;245
+Received reply: time=;1146625829663;245
+Synch Success: SAftr=1146625829693, SBfr=1146625829652, D=20, M=1146625829663
+Scheduled a DoS to fire after 316ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625830001 179
+Synch: Sending query: time=?;246
+Received reply: time=;1146625830026;246
+Synch Success: SAftr=1146625830055, SBfr=1146625830016, D=19, M=1146625830026
+Scheduled a DoS to fire after 453ms
+Synch: Sending query: time=?;247
+Received reply: time=;1146625830390;247
+Synch Success: SAftr=1146625830429, SBfr=1146625830380, D=24, M=1146625830390
+Scheduled a DoS to fire after 41ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625830502 180
+Synch: Sending query: time=?;248
+Received reply: time=;1146625830806;248
+Synch Success: SAftr=1146625830836, SBfr=1146625830796, D=20, M=1146625830806
+Scheduled a DoS to fire after 170ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625831001 181
+Synch: Sending query: time=?;249
+Received reply: time=;1146625831174;249
+Synch Success: SAftr=1146625831208, SBfr=1146625831164, D=22, M=1146625831174
+Scheduled a DoS to fire after 302ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625831501 182
+Synch: Sending query: time=?;250
+Received reply: time=;1146625831545;250
+Synch Success: SAftr=1146625831575, SBfr=1146625831535, D=20, M=1146625831545
+Scheduled a DoS to fire after 431ms
+Synch: Sending query: time=?;251
+Received reply: time=;1146625831911;251
+Synch Success: SAftr=1146625831941, SBfr=1146625831901, D=20, M=1146625831911
+Scheduled a DoS to fire after 61ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625832002 183
+Synch: Sending query: time=?;252
+Received reply: time=;1146625832281;252
+Synch Success: SAftr=1146625832311, SBfr=1146625832271, D=20, M=1146625832281
+Scheduled a DoS to fire after 196ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625832501 184
+Synch: Sending query: time=?;253
+Received reply: time=;1146625832646;253
+Synch Success: SAftr=1146625832677, SBfr=1146625832636, D=20, M=1146625832646
+Scheduled a DoS to fire after 331ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625833008 185
+Synch: Sending query: time=?;254
+Received reply: time=;1146625833139;254
+Synch Success: SAftr=1146625833169, SBfr=1146625833129, D=20, M=1146625833139
+Scheduled a DoS to fire after 334ms
+Synch: Sending query: time=?;255
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625833503 186
+Received reply: time=;1146625833509;255
+Synch Success: SAftr=1146625833542, SBfr=1146625833499, D=21, M=1146625833509
+Scheduled a DoS to fire after 451ms
+Synch: Sending query: time=?;256
+Received reply: time=;1146625833893;256
+Synch Success: SAftr=1146625833923, SBfr=1146625833883, D=20, M=1146625833893
+Scheduled a DoS to fire after 86ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625834002 187
+Synch: Sending query: time=?;257
+Received reply: time=;1146625834256;257
+Synch Success: SAftr=1146625834286, SBfr=1146625834246, D=20, M=1146625834256
+Scheduled a DoS to fire after 218ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625834502 188
+Synch: Sending query: time=?;258
+Received reply: time=;1146625834628;258
+Synch Success: SAftr=1146625834657, SBfr=1146625834617, D=20, M=1146625834628
+Scheduled a DoS to fire after 351ms
+Synch: Sending query: time=?;259
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625835004 189
+Received reply: time=;1146625834994;259
+Synch Success: SAftr=1146625835024, SBfr=1146625834984, D=20, M=1146625834994
+Scheduled a DoS to fire after 485ms
+Synch: Sending query: time=?;260
+Received reply: time=;1146625835357;260
+Synch Success: SAftr=1146625835388, SBfr=1146625835347, D=20, M=1146625835357
+Scheduled a DoS to fire after 122ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625835501 190
+Synch: Sending query: time=?;261
+Received reply: time=;1146625835723;261
+Synch Success: SAftr=1146625835753, SBfr=1146625835711, D=21, M=1146625835723
+Scheduled a DoS to fire after 254ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625836002 191
+Synch: Sending query: time=?;262
+Received reply: time=;1146625836087;262
+Synch Success: SAftr=1146625836117, SBfr=1146625836077, D=20, M=1146625836087
+Scheduled a DoS to fire after 391ms
+Synch: Sending query: time=?;263
+Received reply: time=;1146625836451;263
+Synch Success: SAftr=1146625836480, SBfr=1146625836441, D=19, M=1146625836451
+Scheduled a DoS to fire after 27ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625836506 192
+Synch: Sending query: time=?;264
+Received reply: time=;1146625836816;264
+Synch Success: SAftr=1146625836845, SBfr=1146625836806, D=19, M=1146625836816
+Scheduled a DoS to fire after 163ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625837001 193
+Synch: Sending query: time=?;265
+Received reply: time=;1146625837180;265
+Synch Success: SAftr=1146625837210, SBfr=1146625837169, D=20, M=1146625837180
+Scheduled a DoS to fire after 299ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625837501 194
+Synch: Sending query: time=?;266
+Received reply: time=;1146625837542;266
+Synch Success: SAftr=1146625837572, SBfr=1146625837532, D=20, M=1146625837542
+Scheduled a DoS to fire after 436ms
+Synch: Sending query: time=?;267
+Received reply: time=;1146625837910;267
+Synch Success: SAftr=1146625837941, SBfr=1146625837900, D=20, M=1146625837910
+Scheduled a DoS to fire after 69ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625838002 195
+Synch: Sending query: time=?;268
+Received reply: time=;1146625838276;268
+Synch Success: SAftr=1146625838306, SBfr=1146625838266, D=20, M=1146625838276
+Scheduled a DoS to fire after 202ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625838502 196
+Synch: Sending query: time=?;269
+Received reply: time=;1146625838640;269
+Synch Success: SAftr=1146625838669, SBfr=1146625838629, D=20, M=1146625838640
+Scheduled a DoS to fire after 332ms
+Synch: Sending query: time=?;270
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625839003 197
+Received reply: time=;1146625839010;270
+Synch Success: SAftr=1146625839045, SBfr=1146625838999, D=23, M=1146625839010
+Scheduled a DoS to fire after 457ms
+Synch: Sending query: time=?;271
+Received reply: time=;1146625839387;271
+Synch Success: SAftr=1146625839416, SBfr=1146625839377, D=19, M=1146625839387
+Scheduled a DoS to fire after 92ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625839502 198
+Synch: Sending query: time=?;272
+Received reply: time=;1146625839752;272
+Synch Success: SAftr=1146625839782, SBfr=1146625839742, D=20, M=1146625839752
+Scheduled a DoS to fire after 227ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625840008 199
+Synch: Sending query: time=?;273
+Received reply: time=;1146625840130;273
+Synch Success: SAftr=1146625840159, SBfr=1146625840119, D=20, M=1146625840130
+Scheduled a DoS to fire after 348ms
+Synch: Sending query: time=?;274
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625840501 200
+Received reply: time=;1146625840493;274
+Synch Success: SAftr=1146625840527, SBfr=1146625840482, D=22, M=1146625840493
+Scheduled a DoS to fire after 483ms
+Synch: Sending query: time=?;275
+Received reply: time=;1146625840864;275
+Synch Success: SAftr=1146625840901, SBfr=1146625840853, D=24, M=1146625840864
+Scheduled a DoS to fire after 111ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625841003 201
+Synch: Sending query: time=?;276
+Received reply: time=;1146625841243;276
+Synch Success: SAftr=1146625841275, SBfr=1146625841233, D=21, M=1146625841243
+Scheduled a DoS to fire after 233ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625841510 202
+Synch: Sending query: time=?;277
+Received reply: time=;1146625841611;277
+Synch Success: SAftr=1146625841646, SBfr=1146625841601, D=22, M=1146625841611
+Scheduled a DoS to fire after 364ms
+Synch: Sending query: time=?;278
+Received reply: time=;1146625841982;278
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625842007 203
+Synch Success: SAftr=1146625842019, SBfr=1146625841971, D=24, M=1146625841982
+Scheduled a DoS to fire after 490ms
+Synch: Sending query: time=?;279
+Received reply: time=;1146625842355;279
+Synch Success: SAftr=1146625842385, SBfr=1146625842345, D=20, M=1146625842355
+Scheduled a DoS to fire after 112ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625842507 204
+Synch: Sending query: time=?;280
+Received reply: time=;1146625842730;280
+Synch Success: SAftr=1146625842759, SBfr=1146625842720, D=19, M=1146625842730
+Scheduled a DoS to fire after 237ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625843002 205
+Synch: Sending query: time=?;281
+Received reply: time=;1146625843105;281
+Synch Success: SAftr=1146625843134, SBfr=1146625843095, D=19, M=1146625843105
+Scheduled a DoS to fire after 374ms
+Synch: Sending query: time=?;282
+Received reply: time=;1146625843468;282
+Synch Success: SAftr=1146625843497, SBfr=1146625843458, D=19, M=1146625843468
+Scheduled a DoS to fire after 12ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625843502 206
+Synch: Sending query: time=?;283
+Received reply: time=;1146625843835;283
+Synch Success: SAftr=1146625843868, SBfr=1146625843825, D=21, M=1146625843835
+Scheduled a DoS to fire after 143ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625844001 207
+Synch: Sending query: time=?;284
+Received reply: time=;1146625844202;284
+Synch Success: SAftr=1146625844232, SBfr=1146625844192, D=20, M=1146625844202
+Scheduled a DoS to fire after 277ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625844502 208
+Synch: Sending query: time=?;285
+Received reply: time=;1146625844567;285
+Synch Success: SAftr=1146625844596, SBfr=1146625844555, D=20, M=1146625844567
+Scheduled a DoS to fire after 412ms
+Synch: Sending query: time=?;286
+Received reply: time=;1146625844929;286
+Synch Success: SAftr=1146625844960, SBfr=1146625844918, D=21, M=1146625844929
+Scheduled a DoS to fire after 48ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625845002 209
+Synch: Sending query: time=?;287
+Received reply: time=;1146625845295;287
+Synch Success: SAftr=1146625845326, SBfr=1146625845285, D=20, M=1146625845295
+Scheduled a DoS to fire after 184ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625845501 210
+Synch: Sending query: time=?;288
+Received reply: time=;1146625845660;288
+Synch Success: SAftr=1146625845690, SBfr=1146625845649, D=20, M=1146625845660
+Scheduled a DoS to fire after 282ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625846001 211
+Synch: Sending query: time=?;289
+Received reply: time=;1146625846067;289
+Synch Success: SAftr=1146625846097, SBfr=1146625846057, D=20, M=1146625846067
+Scheduled a DoS to fire after 409ms
+Synch: Sending query: time=?;290
+Received reply: time=;1146625846433;290
+Synch Success: SAftr=1146625846463, SBfr=1146625846423, D=20, M=1146625846433
+Scheduled a DoS to fire after 46ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625846502 212
+Synch: Sending query: time=?;291
+Received reply: time=;1146625846799;291
+Synch Success: SAftr=1146625846829, SBfr=1146625846789, D=20, M=1146625846799
+Scheduled a DoS to fire after 178ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625847001 213
+Synch: Sending query: time=?;292
+Received reply: time=;1146625847165;292
+Synch Success: SAftr=1146625847194, SBfr=1146625847154, D=20, M=1146625847165
+Scheduled a DoS to fire after 312ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625847501 214
+Synch: Sending query: time=?;293
+Received reply: time=;1146625847530;293
+Synch Success: SAftr=1146625847560, SBfr=1146625847520, D=20, M=1146625847530
+Scheduled a DoS to fire after 447ms
+Synch: Sending query: time=?;294
+Received reply: time=;1146625847895;294
+Synch Success: SAftr=1146625847925, SBfr=1146625847885, D=20, M=1146625847895
+Scheduled a DoS to fire after 82ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625848001 215
+Synch: Sending query: time=?;295
+Received reply: time=;1146625848261;295
+Synch Success: SAftr=1146625848290, SBfr=1146625848251, D=19, M=1146625848261
+Scheduled a DoS to fire after 215ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625848501 216
+Synch: Sending query: time=?;296
+Received reply: time=;1146625848627;296
+Synch Success: SAftr=1146625848657, SBfr=1146625848617, D=20, M=1146625848627
+Scheduled a DoS to fire after 347ms
+Synch: Sending query: time=?;297
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625849002 217
+Received reply: time=;1146625848997;297
+Synch Success: SAftr=1146625849031, SBfr=1146625848985, D=23, M=1146625848997
+Scheduled a DoS to fire after 472ms
+Synch: Sending query: time=?;298
+Received reply: time=;1146625849371;298
+Synch Success: SAftr=1146625849402, SBfr=1146625849361, D=20, M=1146625849371
+Scheduled a DoS to fire after 106ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625849502 218
+Synch: Sending query: time=?;299
+Received reply: time=;1146625849737;299
+Synch Success: SAftr=1146625849770, SBfr=1146625849726, D=22, M=1146625849737
+Scheduled a DoS to fire after 237ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625850012 219
+Synch: Sending query: time=?;300
+Received reply: time=;1146625850108;300
+Synch Success: SAftr=1146625850139, SBfr=1146625850098, D=20, M=1146625850108
+Scheduled a DoS to fire after 370ms
+Synch: Sending query: time=?;301
+Received reply: time=;1146625850472;301
+Synch Success: SAftr=1146625850502, SBfr=1146625850462, D=20, M=1146625850472
+Scheduled a DoS to fire after 3ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625850503 220
+Synch: Sending query: time=?;302
+Received reply: time=;1146625850841;302
+Synch Success: SAftr=1146625850871, SBfr=1146625850829, D=21, M=1146625850841
+Scheduled a DoS to fire after 134ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625851002 221
+Synch: Sending query: time=?;303
+Received reply: time=;1146625851207;303
+Synch Success: SAftr=1146625851243, SBfr=1146625851197, D=23, M=1146625851207
+Scheduled a DoS to fire after 268ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625851502 222
+Synch: Sending query: time=?;304
+Received reply: time=;1146625851580;304
+Synch Success: SAftr=1146625851609, SBfr=1146625851569, D=20, M=1146625851580
+Scheduled a DoS to fire after 395ms
+Synch: Sending query: time=?;305
+Received reply: time=;1146625851946;305
+Synch Success: SAftr=1146625851983, SBfr=1146625851936, D=23, M=1146625851946
+Scheduled a DoS to fire after 29ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625852023 223
+Synch: Sending query: time=?;306
+Received reply: time=;1146625852334;306
+Synch Success: SAftr=1146625852372, SBfr=1146625852317, D=27, M=1146625852334
+Scheduled a DoS to fire after 137ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625852505 224
+Synch: Sending query: time=?;307
+Received reply: time=;1146625852723;307
+Synch Success: SAftr=1146625852769, SBfr=1146625852706, D=31, M=1146625852723
+Scheduled a DoS to fire after 240ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625853002 225
+Synch: Sending query: time=?;308
+Received reply: time=;1146625853107;308
+Synch Success: SAftr=1146625853137, SBfr=1146625853096, D=20, M=1146625853107
+Scheduled a DoS to fire after 371ms
+Synch: Sending query: time=?;309
+Received reply: time=;1146625853471;309
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625853509 226
+Synch Success: SAftr=1146625853504, SBfr=1146625853460, D=22, M=1146625853471
+Scheduled a DoS to fire after 481ms
+Synch: Sending query: time=?;310
+Received reply: time=;1146625853863;310
+Synch Success: SAftr=1146625853893, SBfr=1146625853853, D=20, M=1146625853863
+Scheduled a DoS to fire after 116ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625854001 227
+Synch: Sending query: time=?;311
+Received reply: time=;1146625854234;311
+Synch Success: SAftr=1146625854264, SBfr=1146625854224, D=20, M=1146625854234
+Scheduled a DoS to fire after 244ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625854501 228
+Synch: Sending query: time=?;312
+Received reply: time=;1146625854602;312
+Synch Success: SAftr=1146625854631, SBfr=1146625854591, D=20, M=1146625854602
+Scheduled a DoS to fire after 376ms
+Synch: Sending query: time=?;313
+Received reply: time=;1146625854965;313
+Synch Success: SAftr=1146625854994, SBfr=1146625854954, D=20, M=1146625854965
+Scheduled a DoS to fire after 14ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625855004 229
+Synch: Sending query: time=?;314
+Received reply: time=;1146625855332;314
+Synch Success: SAftr=1146625855362, SBfr=1146625855321, D=20, M=1146625855332
+Scheduled a DoS to fire after 146ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625855501 230
+Synch: Sending query: time=?;315
+Received reply: time=;1146625855698;315
+Synch Success: SAftr=1146625855727, SBfr=1146625855687, D=20, M=1146625855698
+Scheduled a DoS to fire after 277ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625856011 231
+Synch: Sending query: time=?;316
+Received reply: time=;1146625856063;316
+Synch Success: SAftr=1146625856094, SBfr=1146625856053, D=20, M=1146625856063
+Scheduled a DoS to fire after 415ms
+Synch: Sending query: time=?;317
+Received reply: time=;1146625856428;317
+Synch Success: SAftr=1146625856459, SBfr=1146625856418, D=20, M=1146625856428
+Scheduled a DoS to fire after 48ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625856505 232
+Synch: Sending query: time=?;318
+Received reply: time=;1146625856794;318
+Synch Success: SAftr=1146625856824, SBfr=1146625856784, D=20, M=1146625856794
+Scheduled a DoS to fire after 183ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625857001 233
+Synch: Sending query: time=?;319
+Received reply: time=;1146625857159;319
+Synch Success: SAftr=1146625857189, SBfr=1146625857149, D=20, M=1146625857159
+Scheduled a DoS to fire after 319ms
+Synch: Sending query: time=?;320
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625857502 234
+Received reply: time=;1146625857522;320
+Synch Success: SAftr=1146625857552, SBfr=1146625857512, D=20, M=1146625857522
+Scheduled a DoS to fire after 456ms
+Synch: Sending query: time=?;321
+Received reply: time=;1146625857886;321
+Synch Success: SAftr=1146625857915, SBfr=1146625857876, D=19, M=1146625857886
+Scheduled a DoS to fire after 91ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625858002 235
+Synch: Sending query: time=?;322
+Received reply: time=;1146625858251;322
+Synch Success: SAftr=1146625858281, SBfr=1146625858241, D=20, M=1146625858251
+Scheduled a DoS to fire after 222ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625858502 236
+Synch: Sending query: time=?;323
+Received reply: time=;1146625858620;323
+Synch Success: SAftr=1146625858650, SBfr=1146625858610, D=20, M=1146625858620
+Scheduled a DoS to fire after 359ms
+Synch: Sending query: time=?;324
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625859006 237
+Received reply: time=;1146625858985;324
+Synch Success: SAftr=1146625859018, SBfr=1146625858975, D=21, M=1146625858985
+Scheduled a DoS to fire after 457ms
+Synch: Sending query: time=?;325
+Received reply: time=;1146625859405;325
+Synch Success: SAftr=1146625859436, SBfr=1146625859395, D=20, M=1146625859405
+Scheduled a DoS to fire after 65ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625859502 238
+Synch: Sending query: time=?;326
+Received reply: time=;1146625859778;326
+Synch Success: SAftr=1146625859807, SBfr=1146625859768, D=19, M=1146625859778
+Scheduled a DoS to fire after 202ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625860002 239
+Synch: Sending query: time=?;327
+Received reply: time=;1146625860140;327
+Synch Success: SAftr=1146625860170, SBfr=1146625860130, D=20, M=1146625860140
+Scheduled a DoS to fire after 338ms
+Synch: Sending query: time=?;328
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625860502 240
+Received reply: time=;1146625860506;328
+Synch Success: SAftr=1146625860535, SBfr=1146625860496, D=19, M=1146625860506
+Scheduled a DoS to fire after 473ms
+Synch: Sending query: time=?;329
+Received reply: time=;1146625860872;329
+Synch Success: SAftr=1146625860902, SBfr=1146625860861, D=20, M=1146625860872
+Scheduled a DoS to fire after 41ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625861002 241
+Synch: Sending query: time=?;330
+Received reply: time=;1146625861301;330
+Synch Success: SAftr=1146625861330, SBfr=1146625861290, D=20, M=1146625861301
+Scheduled a DoS to fire after 178ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625861501 242
+Synch: Sending query: time=?;331
+Received reply: time=;1146625861664;331
+Synch Success: SAftr=1146625861695, SBfr=1146625861654, D=20, M=1146625861664
+Scheduled a DoS to fire after 314ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625862001 243
+Synch: Sending query: time=?;332
+Received reply: time=;1146625862045;332
+Synch Success: SAftr=1146625862075, SBfr=1146625862035, D=20, M=1146625862045
+Scheduled a DoS to fire after 434ms
+Synch: Sending query: time=?;333
+Received reply: time=;1146625862418;333
+Synch Success: SAftr=1146625862448, SBfr=1146625862408, D=20, M=1146625862418
+Scheduled a DoS to fire after 61ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625862502 244
+Synch: Sending query: time=?;334
+Received reply: time=;1146625862783;334
+Synch Success: SAftr=1146625862812, SBfr=1146625862772, D=20, M=1146625862783
+Scheduled a DoS to fire after 190ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625863003 245
+Synch: Sending query: time=?;335
+Received reply: time=;1146625863150;335
+Synch Success: SAftr=1146625863181, SBfr=1146625863140, D=20, M=1146625863150
+Scheduled a DoS to fire after 328ms
+Synch: Sending query: time=?;336
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625863501 246
+Received reply: time=;1146625863516;336
+Synch Success: SAftr=1146625863567, SBfr=1146625863505, D=31, M=1146625863516
+Scheduled a DoS to fire after 451ms
+Synch: Sending query: time=?;337
+Received reply: time=;1146625863901;337
+Synch Success: SAftr=1146625863932, SBfr=1146625863891, D=20, M=1146625863901
+Scheduled a DoS to fire after 56ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625864001 247
+Synch: Sending query: time=?;338
+Received reply: time=;1146625864291;338
+Synch Success: SAftr=1146625864321, SBfr=1146625864280, D=20, M=1146625864291
+Scheduled a DoS to fire after 187ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625864501 248
+Synch: Sending query: time=?;339
+Received reply: time=;1146625864658;339
+Synch Success: SAftr=1146625864688, SBfr=1146625864648, D=20, M=1146625864658
+Scheduled a DoS to fire after 317ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625865001 249
+Synch: Sending query: time=?;340
+Received reply: time=;1146625865026;340
+Synch Success: SAftr=1146625865069, SBfr=1146625865016, D=26, M=1146625865026
+Scheduled a DoS to fire after 446ms
+Synch: Sending query: time=?;341
+Received reply: time=;1146625865403;341
+Synch Success: SAftr=1146625865433, SBfr=1146625865393, D=20, M=1146625865403
+Scheduled a DoS to fire after 76ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625865502 250
+Synch: Sending query: time=?;342
+Received reply: time=;1146625865768;342
+Synch Success: SAftr=1146625865797, SBfr=1146625865758, D=19, M=1146625865768
+Scheduled a DoS to fire after 208ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625866001 251
+Synch: Sending query: time=?;343
+Received reply: time=;1146625866135;343
+Synch Success: SAftr=1146625866165, SBfr=1146625866125, D=20, M=1146625866135
+Scheduled a DoS to fire after 340ms
+Synch: Sending query: time=?;344
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625866502 252
+Received reply: time=;1146625866501;344
+Synch Success: SAftr=1146625866530, SBfr=1146625866491, D=19, M=1146625866501
+Scheduled a DoS to fire after 477ms
+Synch: Sending query: time=?;345
+Received reply: time=;1146625866864;345
+Synch Success: SAftr=1146625866894, SBfr=1146625866854, D=20, M=1146625866864
+Scheduled a DoS to fire after 115ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625867002 253
+Synch: Sending query: time=?;346
+Received reply: time=;1146625867227;346
+Synch Success: SAftr=1146625867257, SBfr=1146625867217, D=20, M=1146625867227
+Scheduled a DoS to fire after 250ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625867501 254
+Synch: Sending query: time=?;347
+Received reply: time=;1146625867591;347
+Synch Success: SAftr=1146625867620, SBfr=1146625867581, D=19, M=1146625867591
+Scheduled a DoS to fire after 387ms
+Synch: Sending query: time=?;348
+Received reply: time=;1146625867955;348
+Synch Success: SAftr=1146625867985, SBfr=1146625867945, D=20, M=1146625867955
+Scheduled a DoS to fire after 18ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625868003 255
+Synch: Sending query: time=?;349
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625868505 256
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625869007 257
+Attempt: Sending query: time=?;350
+Received reply: time=;1146625869351;350
+Synch Success: SAftr=1146625869381, SBfr=1146625869339, D=21, M=1146625869351
+Scheduled a DoS to fire after 127ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625869502 258
+Synch: Sending query: time=?;351
+Received reply: time=;1146625869714;351
+Synch Success: SAftr=1146625869744, SBfr=1146625869704, D=20, M=1146625869714
+Scheduled a DoS to fire after 261ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625870002 259
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625870509 260
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625871012 261
+Received reply: time=;1146625868324;349
+Synch Failure: sn and snPrime are not equal
+Synch: Sending query: time=?;352
+Received reply: time=;1146625871386;352
+Synch Success: SAftr=1146625871429, SBfr=1146625871375, D=27, M=1146625871386
+Scheduled a DoS to fire after 85ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625871503 262
+Synch: Sending query: time=?;353
+Received reply: time=;1146625871765;353
+Synch Success: SAftr=1146625871794, SBfr=1146625871754, D=20, M=1146625871765
+Scheduled a DoS to fire after 213ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625872005 263
+Synch: Sending query: time=?;354
+Received reply: time=;1146625872130;354
+Synch Success: SAftr=1146625872165, SBfr=1146625872120, D=22, M=1146625872130
+Scheduled a DoS to fire after 334ms
+Synch: Sending query: time=?;355
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625872502 264
+Received reply: time=;1146625872515;355
+Synch Success: SAftr=1146625872545, SBfr=1146625872505, D=20, M=1146625872515
+Scheduled a DoS to fire after 460ms
+Synch: Sending query: time=?;356
+Received reply: time=;1146625872882;356
+Synch Success: SAftr=1146625872912, SBfr=1146625872872, D=20, M=1146625872882
+Scheduled a DoS to fire after 96ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625873001 265
+Synch: Sending query: time=?;357
+Received reply: time=;1146625873247;357
+Synch Success: SAftr=1146625873277, SBfr=1146625873237, D=20, M=1146625873247
+Scheduled a DoS to fire after 231ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625873501 266
+Synch: Sending query: time=?;358
+Received reply: time=;1146625873612;358
+Synch Success: SAftr=1146625873643, SBfr=1146625873601, D=21, M=1146625873612
+Scheduled a DoS to fire after 363ms
+Synch: Sending query: time=?;359
+Received reply: time=;1146625873980;359
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625874003 267
+Synch Success: SAftr=1146625874010, SBfr=1146625873969, D=20, M=1146625873980
+Scheduled a DoS to fire after 492ms
+Synch: Sending query: time=?;360
+Received reply: time=;1146625874354;360
+Synch Success: SAftr=1146625874386, SBfr=1146625874344, D=21, M=1146625874354
+Scheduled a DoS to fire after 122ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625874501 268
+Synch: Sending query: time=?;361
+Received reply: time=;1146625874721;361
+Synch Success: SAftr=1146625874752, SBfr=1146625874710, D=21, M=1146625874721
+Scheduled a DoS to fire after 248ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625875001 269
+Synch: Sending query: time=?;362
+Received reply: time=;1146625875095;362
+Synch Success: SAftr=1146625875126, SBfr=1146625875085, D=20, M=1146625875095
+Scheduled a DoS to fire after 377ms
+Synch: Sending query: time=?;363
+Received reply: time=;1146625875467;363
+Synch Success: SAftr=1146625875497, SBfr=1146625875457, D=20, M=1146625875467
+Scheduled a DoS to fire after 9ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625875505 270
+Synch: Sending query: time=?;364
+Received reply: time=;1146625875832;364
+Synch Success: SAftr=1146625875862, SBfr=1146625875822, D=20, M=1146625875832
+Scheduled a DoS to fire after 144ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625876002 271
+Synch: Sending query: time=?;365
+Received reply: time=;1146625876200;365
+Synch Success: SAftr=1146625876230, SBfr=1146625876190, D=20, M=1146625876200
+Scheduled a DoS to fire after 278ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625876502 272
+Synch: Sending query: time=?;366
+Received reply: time=;1146625876564;366
+Synch Success: SAftr=1146625876594, SBfr=1146625876554, D=20, M=1146625876564
+Scheduled a DoS to fire after 411ms
+Synch: Sending query: time=?;367
+Received reply: time=;1146625876930;367
+Synch Success: SAftr=1146625876960, SBfr=1146625876920, D=20, M=1146625876930
+Scheduled a DoS to fire after 25ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625877003 273
+Synch: Sending query: time=?;368
+Received reply: time=;1146625877317;368
+Synch Success: SAftr=1146625877348, SBfr=1146625877307, D=20, M=1146625877317
+Scheduled a DoS to fire after 156ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625877502 274
+Synch: Sending query: time=?;369
+Received reply: time=;1146625877688;369
+Synch Success: SAftr=1146625877718, SBfr=1146625877678, D=20, M=1146625877688
+Scheduled a DoS to fire after 291ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625878002 275
+Synch: Sending query: time=?;370
+Received reply: time=;1146625878051;370
+Synch Success: SAftr=1146625878081, SBfr=1146625878041, D=20, M=1146625878051
+Scheduled a DoS to fire after 427ms
+Synch: Sending query: time=?;371
+Received reply: time=;1146625878415;371
+Synch Success: SAftr=1146625878445, SBfr=1146625878405, D=20, M=1146625878415
+Scheduled a DoS to fire after 64ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625878501 276
+Synch: Sending query: time=?;372
+Received reply: time=;1146625878779;372
+Synch Success: SAftr=1146625878809, SBfr=1146625878768, D=20, M=1146625878779
+Scheduled a DoS to fire after 200ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625879002 277
+Synch: Sending query: time=?;373
+Received reply: time=;1146625879165;373
+Synch Success: SAftr=1146625879197, SBfr=1146625879155, D=21, M=1146625879165
+Scheduled a DoS to fire after 313ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625879502 278
+Synch: Sending query: time=?;374
+Received reply: time=;1146625879530;374
+Synch Success: SAftr=1146625879560, SBfr=1146625879519, D=20, M=1146625879530
+Scheduled a DoS to fire after 448ms
+Synch: Sending query: time=?;375
+Received reply: time=;1146625879894;375
+Synch Success: SAftr=1146625879924, SBfr=1146625879883, D=20, M=1146625879894
+Scheduled a DoS to fire after 80ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625880001 279
+Synch: Sending query: time=?;376
+Received reply: time=;1146625880262;376
+Synch Success: SAftr=1146625880292, SBfr=1146625880251, D=20, M=1146625880262
+Scheduled a DoS to fire after 216ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625880501 280
+Synch: Sending query: time=?;377
+Received reply: time=;1146625880627;377
+Synch Success: SAftr=1146625880657, SBfr=1146625880617, D=20, M=1146625880627
+Scheduled a DoS to fire after 349ms
+Synch: Sending query: time=?;378
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625881002 281
+Received reply: time=;1146625880992;378
+Synch Success: SAftr=1146625881022, SBfr=1146625880982, D=20, M=1146625880992
+Scheduled a DoS to fire after 484ms
+Synch: Sending query: time=?;379
+Received reply: time=;1146625881358;379
+Synch Success: SAftr=1146625881388, SBfr=1146625881348, D=20, M=1146625881358
+Scheduled a DoS to fire after 119ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625881502 282
+Synch: Sending query: time=?;380
+Received reply: time=;1146625881722;380
+Synch Success: SAftr=1146625881752, SBfr=1146625881712, D=20, M=1146625881722
+Scheduled a DoS to fire after 256ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625882002 283
+Synch: Sending query: time=?;381
+Received reply: time=;1146625882086;381
+Synch Success: SAftr=1146625882118, SBfr=1146625882076, D=21, M=1146625882086
+Scheduled a DoS to fire after 390ms
+Synch: Sending query: time=?;382
+Received reply: time=;1146625882454;382
+Synch Success: SAftr=1146625882484, SBfr=1146625882443, D=20, M=1146625882454
+Scheduled a DoS to fire after 24ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625882503 284
+Synch: Sending query: time=?;383
+Received reply: time=;1146625882819;383
+Synch Success: SAftr=1146625882848, SBfr=1146625882808, D=20, M=1146625882819
+Scheduled a DoS to fire after 159ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625883002 285
+Synch: Sending query: time=?;384
+Received reply: time=;1146625883183;384
+Synch Success: SAftr=1146625883213, SBfr=1146625883172, D=20, M=1146625883183
+Scheduled a DoS to fire after 294ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625883501 286
+Synch: Sending query: time=?;385
+Received reply: time=;1146625883550;385
+Synch Success: SAftr=1146625883581, SBfr=1146625883540, D=20, M=1146625883550
+Scheduled a DoS to fire after 428ms
+Synch: Sending query: time=?;386
+Received reply: time=;1146625883914;386
+Synch Success: SAftr=1146625883944, SBfr=1146625883904, D=20, M=1146625883914
+Scheduled a DoS to fire after 65ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625884002 287
+Synch: Sending query: time=?;387
+Received reply: time=;1146625884279;387
+Synch Success: SAftr=1146625884308, SBfr=1146625884268, D=20, M=1146625884279
+Scheduled a DoS to fire after 196ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625884501 288
+Synch: Sending query: time=?;388
+Received reply: time=;1146625884645;388
+Synch Success: SAftr=1146625884681, SBfr=1146625884635, D=23, M=1146625884645
+Scheduled a DoS to fire after 315ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625885006 289
+Synch: Sending query: time=?;389
+Received reply: time=;1146625885043;389
+Synch Success: SAftr=1146625885072, SBfr=1146625885027, D=22, M=1146625885043
+Scheduled a DoS to fire after 412ms
+Synch: Sending query: time=?;390
+Received reply: time=;1146625885431;390
+Synch Success: SAftr=1146625885460, SBfr=1146625885421, D=19, M=1146625885431
+Scheduled a DoS to fire after 49ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625885502 290
+Synch: Sending query: time=?;391
+Received reply: time=;1146625885793;391
+Synch Success: SAftr=1146625885823, SBfr=1146625885783, D=20, M=1146625885793
+Scheduled a DoS to fire after 186ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625886002 291
+Synch: Sending query: time=?;392
+Received reply: time=;1146625886157;392
+Synch Success: SAftr=1146625886186, SBfr=1146625886146, D=20, M=1146625886157
+Scheduled a DoS to fire after 322ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625886503 292
+Synch: Sending query: time=?;393
+Received reply: time=;1146625886533;393
+Synch Success: SAftr=1146625886563, SBfr=1146625886523, D=20, M=1146625886533
+Scheduled a DoS to fire after 446ms
+Synch: Sending query: time=?;394
+Received reply: time=;1146625886897;394
+Synch Success: SAftr=1146625886926, SBfr=1146625886887, D=19, M=1146625886897
+Scheduled a DoS to fire after 83ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625887002 293
+Synch: Sending query: time=?;395
+Received reply: time=;1146625887260;395
+Synch Success: SAftr=1146625887290, SBfr=1146625887249, D=20, M=1146625887260
+Scheduled a DoS to fire after 219ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625887501 294
+Synch: Sending query: time=?;396
+Received reply: time=;1146625887623;396
+Synch Success: SAftr=1146625887653, SBfr=1146625887613, D=20, M=1146625887623
+Scheduled a DoS to fire after 356ms
+Synch: Sending query: time=?;397
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625888001 295
+Received reply: time=;1146625887998;397
+Synch Success: SAftr=1146625888028, SBfr=1146625887988, D=20, M=1146625887998
+Scheduled a DoS to fire after 481ms
+Synch: Sending query: time=?;398
+Received reply: time=;1146625888362;398
+Synch Success: SAftr=1146625888392, SBfr=1146625888352, D=20, M=1146625888362
+Scheduled a DoS to fire after 116ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625888501 296
+Synch: Sending query: time=?;399
+Received reply: time=;1146625888730;399
+Synch Success: SAftr=1146625888759, SBfr=1146625888719, D=20, M=1146625888730
+Scheduled a DoS to fire after 249ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625889001 297
+Synch: Sending query: time=?;400
+Received reply: time=;1146625889094;400
+Synch Success: SAftr=1146625889123, SBfr=1146625889083, D=20, M=1146625889094
+Scheduled a DoS to fire after 385ms
+Synch: Sending query: time=?;401
+Received reply: time=;1146625889457;401
+Synch Success: SAftr=1146625889486, SBfr=1146625889446, D=20, M=1146625889457
+Scheduled a DoS to fire after 19ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625889501 298
+Synch: Sending query: time=?;402
+Received reply: time=;1146625889825;402
+Synch Success: SAftr=1146625889855, SBfr=1146625889814, D=20, M=1146625889825
+Scheduled a DoS to fire after 152ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625890002 299
+Synch: Sending query: time=?;403
+Received reply: time=;1146625890190;403
+Synch Success: SAftr=1146625890220, SBfr=1146625890180, D=20, M=1146625890190
+Scheduled a DoS to fire after 280ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625890501 300
+Synch: Sending query: time=?;404
+Received reply: time=;1146625890563;404
+Synch Success: SAftr=1146625890592, SBfr=1146625890552, D=20, M=1146625890563
+Scheduled a DoS to fire after 416ms
+Synch: Sending query: time=?;405
+Received reply: time=;1146625890926;405
+Synch Success: SAftr=1146625890956, SBfr=1146625890915, D=20, M=1146625890926
+Scheduled a DoS to fire after 53ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625891002 301
+Synch: Sending query: time=?;406
+Received reply: time=;1146625891290;406
+Synch Success: SAftr=1146625891319, SBfr=1146625891280, D=19, M=1146625891290
+Scheduled a DoS to fire after 185ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625891501 302
+Synch: Sending query: time=?;407
+Received reply: time=;1146625891657;407
+Synch Success: SAftr=1146625891688, SBfr=1146625891647, D=20, M=1146625891657
+Scheduled a DoS to fire after 322ms
+Synch: Sending query: time=?;408
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625892002 303
+Received reply: time=;1146625892020;408
+Synch Success: SAftr=1146625892050, SBfr=1146625892010, D=20, M=1146625892020
+Scheduled a DoS to fire after 456ms
+Synch: Sending query: time=?;409
+Received reply: time=;1146625892387;409
+Synch Success: SAftr=1146625892416, SBfr=1146625892376, D=20, M=1146625892387
+Scheduled a DoS to fire after 91ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625892501 304
+Synch: Sending query: time=?;410
+Received reply: time=;1146625892750;410
+Synch Success: SAftr=1146625892780, SBfr=1146625892740, D=20, M=1146625892750
+Scheduled a DoS to fire after 209ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625893002 305
+Synch: Sending query: time=?;411
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625893504 306
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625894006 307
+Attempt: Sending query: time=?;412
+Received reply: time=;1146625894167;412
+Synch Success: SAftr=1146625894199, SBfr=1146625894154, D=22, M=1146625894167
+Scheduled a DoS to fire after 307ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625894501 308
+Synch: Sending query: time=?;413
+Received reply: time=;1146625894537;413
+Synch Success: SAftr=1146625894567, SBfr=1146625894527, D=20, M=1146625894537
+Scheduled a DoS to fire after 440ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625895002 309
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625895504 310
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625896005 311
+Received reply: time=;1146625893133;411
+Synch Failure: sn and snPrime are not equal
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625896506 312
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625897007 313
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625897508 314
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625898010 315
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625898511 316
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625899015 317
+Synch: Sending query: time=?;414
+Received reply: time=;1146625899204;414
+Synch Success: SAftr=1146625899235, SBfr=1146625899193, D=21, M=1146625899204
+Scheduled a DoS to fire after 266ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625899501 318
+Synch: Sending query: time=?;415
+Received reply: time=;1146625899579;415
+Synch Success: SAftr=1146625899608, SBfr=1146625899568, D=20, M=1146625899579
+Scheduled a DoS to fire after 400ms
+Synch: Sending query: time=?;416
+Received reply: time=;1146625899940;416
+Synch Success: SAftr=1146625899971, SBfr=1146625899930, D=20, M=1146625899940
+Scheduled a DoS to fire after 37ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625900003 319
+Synch: Sending query: time=?;417
+Received reply: time=;1146625900306;417
+Synch Success: SAftr=1146625900336, SBfr=1146625900296, D=20, M=1146625900306
+Scheduled a DoS to fire after 165ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625900503 320
+Synch: Sending query: time=?;418
+Received reply: time=;1146625900677;418
+Synch Success: SAftr=1146625900707, SBfr=1146625900667, D=20, M=1146625900677
+Scheduled a DoS to fire after 300ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625901005 321
+Synch: Sending query: time=?;419
+Received reply: time=;1146625901047;419
+Synch Success: SAftr=1146625901076, SBfr=1146625901037, D=19, M=1146625901047
+Scheduled a DoS to fire after 426ms
+Synch: Sending query: time=?;420
+Received reply: time=;1146625901416;420
+Synch Success: SAftr=1146625901446, SBfr=1146625901406, D=20, M=1146625901416
+Scheduled a DoS to fire after 63ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625901502 322
+Synch: Sending query: time=?;421
+Received reply: time=;1146625901780;421
+Synch Success: SAftr=1146625901809, SBfr=1146625901769, D=20, M=1146625901780
+Scheduled a DoS to fire after 199ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625902002 323
+Synch: Sending query: time=?;422
+Received reply: time=;1146625902145;422
+Synch Success: SAftr=1146625902175, SBfr=1146625902134, D=20, M=1146625902145
+Scheduled a DoS to fire after 331ms
+Synch: Sending query: time=?;423
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625902502 324
+Received reply: time=;1146625902511;423
+Synch Success: SAftr=1146625902542, SBfr=1146625902501, D=20, M=1146625902511
+Scheduled a DoS to fire after 464ms
+Synch: Sending query: time=?;424
+Received reply: time=;1146625902882;424
+Synch Success: SAftr=1146625902912, SBfr=1146625902872, D=20, M=1146625902882
+Scheduled a DoS to fire after 93ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625903001 325
+Synch: Sending query: time=?;425
+Received reply: time=;1146625903249;425
+Synch Success: SAftr=1146625903279, SBfr=1146625903239, D=20, M=1146625903249
+Scheduled a DoS to fire after 230ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625903502 326
+Synch: Sending query: time=?;426
+Received reply: time=;1146625903612;426
+Synch Success: SAftr=1146625903641, SBfr=1146625903602, D=19, M=1146625903612
+Scheduled a DoS to fire after 363ms
+Synch: Sending query: time=?;427
+Received reply: time=;1146625903979;427
+Synch Success: SAftr=1146625904008, SBfr=1146625903969, D=19, M=1146625903979
+Scheduled a DoS to fire after 499ms
+Synch: Sending query: time=?;428
+Received reply: time=;1146625904343;428
+Synch Success: SAftr=1146625904373, SBfr=1146625904333, D=20, M=1146625904343
+Scheduled a DoS to fire after 133ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625904502 327
+Synch: Sending query: time=?;429
+Received reply: time=;1146625904710;429
+Synch Success: SAftr=1146625904741, SBfr=1146625904700, D=20, M=1146625904710
+Scheduled a DoS to fire after 265ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625905002 328
+Synch: Sending query: time=?;430
+Received reply: time=;1146625905086;430
+Synch Success: SAftr=1146625905118, SBfr=1146625905075, D=21, M=1146625905086
+Scheduled a DoS to fire after 375ms
+Synch: Sending query: time=?;431
+Received reply: time=;1146625905468;431
+Synch Success: SAftr=1146625905497, SBfr=1146625905457, D=20, M=1146625905468
+Scheduled a DoS to fire after 10ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625905501 329
+Synch: Sending query: time=?;432
+Received reply: time=;1146625905831;432
+Synch Success: SAftr=1146625905861, SBfr=1146625905821, D=20, M=1146625905831
+Scheduled a DoS to fire after 148ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625906001 330
+Synch: Sending query: time=?;433
+Received reply: time=;1146625906196;433
+Synch Success: SAftr=1146625906226, SBfr=1146625906184, D=21, M=1146625906196
+Scheduled a DoS to fire after 282ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625906502 331
+Synch: Sending query: time=?;434
+Received reply: time=;1146625906570;434
+Synch Success: SAftr=1146625906599, SBfr=1146625906559, D=20, M=1146625906570
+Scheduled a DoS to fire after 409ms
+Synch: Sending query: time=?;435
+Received reply: time=;1146625906933;435
+Synch Success: SAftr=1146625906963, SBfr=1146625906922, D=20, M=1146625906933
+Scheduled a DoS to fire after 44ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625907001 332
+Synch: Sending query: time=?;436
+Received reply: time=;1146625907298;436
+Synch Success: SAftr=1146625907328, SBfr=1146625907288, D=20, M=1146625907298
+Scheduled a DoS to fire after 179ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625907501 333
+Synch: Sending query: time=?;437
+Received reply: time=;1146625907665;437
+Synch Success: SAftr=1146625907695, SBfr=1146625907655, D=20, M=1146625907665
+Scheduled a DoS to fire after 311ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625908001 334
+Synch: Sending query: time=?;438
+Received reply: time=;1146625908032;438
+Synch Success: SAftr=1146625908062, SBfr=1146625908021, D=20, M=1146625908032
+Scheduled a DoS to fire after 447ms
+Synch: Sending query: time=?;439
+Received reply: time=;1146625908396;439
+Synch Success: SAftr=1146625908431, SBfr=1146625908386, D=22, M=1146625908396
+Scheduled a DoS to fire after 81ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625908502 335
+Synch: Sending query: time=?;440
+Received reply: time=;1146625908770;440
+Synch Success: SAftr=1146625908800, SBfr=1146625908760, D=20, M=1146625908770
+Scheduled a DoS to fire after 207ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625909001 336
+Synch: Sending query: time=?;441
+Received reply: time=;1146625909135;441
+Synch Success: SAftr=1146625909165, SBfr=1146625909125, D=20, M=1146625909135
+Scheduled a DoS to fire after 339ms
+Synch: Sending query: time=?;442
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625909501 337
+Received reply: time=;1146625909503;442
+Synch Success: SAftr=1146625909532, SBfr=1146625909493, D=19, M=1146625909503
+Scheduled a DoS to fire after 471ms
+Synch: Sending query: time=?;443
+Received reply: time=;1146625909870;443
+Synch Success: SAftr=1146625909900, SBfr=1146625909860, D=20, M=1146625909870
+Scheduled a DoS to fire after 105ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625910001 338
+Synch: Sending query: time=?;444
+Received reply: time=;1146625910242;444
+Synch Success: SAftr=1146625910273, SBfr=1146625910231, D=21, M=1146625910242
+Scheduled a DoS to fire after 232ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625910502 339
+Synch: Sending query: time=?;445
+Received reply: time=;1146625910611;445
+Synch Success: SAftr=1146625910640, SBfr=1146625910600, D=20, M=1146625910611
+Scheduled a DoS to fire after 368ms
+Synch: Sending query: time=?;446
+Received reply: time=;1146625910973;446
+Synch Success: SAftr=1146625911005, SBfr=1146625910963, D=21, M=1146625910973
+Scheduled a DoS to fire after 2ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625911002 340
+Synch: Sending query: time=?;447
+Received reply: time=;1146625911343;447
+Synch Success: SAftr=1146625911373, SBfr=1146625911333, D=20, M=1146625911343
+Scheduled a DoS to fire after 137ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625911501 341
+Synch: Sending query: time=?;448
+Received reply: time=;1146625911707;448
+Synch Success: SAftr=1146625911737, SBfr=1146625911697, D=20, M=1146625911707
+Scheduled a DoS to fire after 272ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625912002 342
+Synch: Sending query: time=?;449
+Received reply: time=;1146625912076;449
+Synch Success: SAftr=1146625912108, SBfr=1146625912066, D=21, M=1146625912076
+Scheduled a DoS to fire after 394ms
+Synch: Sending query: time=?;450
+Received reply: time=;1146625912451;450
+Synch Success: SAftr=1146625912481, SBfr=1146625912441, D=20, M=1146625912451
+Scheduled a DoS to fire after 28ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625912502 343
+Synch: Sending query: time=?;451
+Received reply: time=;1146625912814;451
+Synch Success: SAftr=1146625912844, SBfr=1146625912804, D=20, M=1146625912814
+Scheduled a DoS to fire after 164ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625913002 344
+Synch: Sending query: time=?;452
+Received reply: time=;1146625913178;452
+Synch Success: SAftr=1146625913208, SBfr=1146625913168, D=20, M=1146625913178
+Scheduled a DoS to fire after 301ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625913502 345
+Synch: Sending query: time=?;453
+Received reply: time=;1146625913541;453
+Synch Success: SAftr=1146625913571, SBfr=1146625913531, D=20, M=1146625913541
+Scheduled a DoS to fire after 435ms
+Synch: Sending query: time=?;454
+Received reply: time=;1146625913908;454
+Synch Success: SAftr=1146625913938, SBfr=1146625913898, D=20, M=1146625913908
+Scheduled a DoS to fire after 71ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625914010 346
+Synch: Sending query: time=?;455
+Received reply: time=;1146625914272;455
+Synch Success: SAftr=1146625914350, SBfr=1146625914262, D=44, M=1146625914272
+Scheduled a DoS to fire after 182ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625914501 347
+Synch: Sending query: time=?;456
+Received reply: time=;1146625914683;456
+Synch Success: SAftr=1146625914713, SBfr=1146625914673, D=20, M=1146625914683
+Scheduled a DoS to fire after 292ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625915001 348
+Synch: Sending query: time=?;457
+Received reply: time=;1146625915050;457
+Synch Success: SAftr=1146625915080, SBfr=1146625915039, D=20, M=1146625915050
+Scheduled a DoS to fire after 429ms
+Synch: Sending query: time=?;458
+Received reply: time=;1146625915412;458
+Synch Success: SAftr=1146625915442, SBfr=1146625915402, D=20, M=1146625915412
+Scheduled a DoS to fire after 63ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625915502 349
+Synch: Sending query: time=?;459
+Received reply: time=;1146625915779;459
+Synch Success: SAftr=1146625915808, SBfr=1146625915768, D=20, M=1146625915779
+Scheduled a DoS to fire after 188ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625916001 350
+Synch: Sending query: time=?;460
+Received reply: time=;1146625916153;460
+Synch Success: SAftr=1146625916182, SBfr=1146625916143, D=19, M=1146625916153
+Scheduled a DoS to fire after 325ms
+Synch: Sending query: time=?;461
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625916501 351
+Received reply: time=;1146625916518;461
+Synch Success: SAftr=1146625916548, SBfr=1146625916508, D=20, M=1146625916518
+Scheduled a DoS to fire after 461ms
+Synch: Sending query: time=?;462
+Received reply: time=;1146625916881;462
+Synch Success: SAftr=1146625916912, SBfr=1146625916871, D=20, M=1146625916881
+Scheduled a DoS to fire after 96ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625917001 352
+Synch: Sending query: time=?;463
+Received reply: time=;1146625917246;463
+Synch Success: SAftr=1146625917276, SBfr=1146625917236, D=20, M=1146625917246
+Scheduled a DoS to fire after 232ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625917502 353
+Synch: Sending query: time=?;464
+Received reply: time=;1146625917610;464
+Synch Success: SAftr=1146625917639, SBfr=1146625917599, D=20, M=1146625917610
+Scheduled a DoS to fire after 368ms
+Synch: Sending query: time=?;465
+Received reply: time=;1146625917974;465
+Synch Success: SAftr=1146625918003, SBfr=1146625917963, D=20, M=1146625917974
+Scheduled a DoS to fire after 3ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625918001 354
+Synch: Sending query: time=?;466
+Received reply: time=;1146625918338;466
+Synch Success: SAftr=1146625918368, SBfr=1146625918328, D=20, M=1146625918338
+Scheduled a DoS to fire after 140ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625918502 355
+Synch: Sending query: time=?;467
+Received reply: time=;1146625918702;467
+Synch Success: SAftr=1146625918732, SBfr=1146625918692, D=20, M=1146625918702
+Scheduled a DoS to fire after 276ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625919001 356
+Synch: Sending query: time=?;468
+Received reply: time=;1146625919065;468
+Synch Success: SAftr=1146625919095, SBfr=1146625919055, D=20, M=1146625919065
+Scheduled a DoS to fire after 414ms
+Synch: Sending query: time=?;469
+Received reply: time=;1146625919432;469
+Synch Success: SAftr=1146625919462, SBfr=1146625919422, D=20, M=1146625919432
+Scheduled a DoS to fire after 42ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625919501 357
+Synch: Sending query: time=?;470
+Received reply: time=;1146625919800;470
+Synch Success: SAftr=1146625919831, SBfr=1146625919790, D=20, M=1146625919800
+Scheduled a DoS to fire after 174ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625920002 358
+Synch: Sending query: time=?;471
+Received reply: time=;1146625920170;471
+Synch Success: SAftr=1146625920200, SBfr=1146625920159, D=20, M=1146625920170
+Scheduled a DoS to fire after 306ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625920502 359
+Synch: Sending query: time=?;472
+Received reply: time=;1146625920540;472
+Synch Success: SAftr=1146625920570, SBfr=1146625920530, D=20, M=1146625920540
+Scheduled a DoS to fire after 433ms
+Synch: Sending query: time=?;473
+Received reply: time=;1146625920909;473
+Synch Success: SAftr=1146625920940, SBfr=1146625920899, D=20, M=1146625920909
+Scheduled a DoS to fire after 66ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625921002 360
+Synch: Sending query: time=?;474
+Received reply: time=;1146625921278;474
+Synch Success: SAftr=1146625921308, SBfr=1146625921267, D=20, M=1146625921278
+Scheduled a DoS to fire after 187ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625921502 361
+Synch: Sending query: time=?;475
+Received reply: time=;1146625921655;475
+Synch Success: SAftr=1146625921685, SBfr=1146625921645, D=20, M=1146625921655
+Scheduled a DoS to fire after 321ms
+Synch: Sending query: time=?;476
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625922002 362
+Received reply: time=;1146625922021;476
+Synch Success: SAftr=1146625922054, SBfr=1146625922011, D=21, M=1146625922021
+Scheduled a DoS to fire after 457ms
+Synch: Sending query: time=?;477
+Received reply: time=;1146625922387;477
+Synch Success: SAftr=1146625922417, SBfr=1146625922377, D=20, M=1146625922387
+Scheduled a DoS to fire after 92ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625922503 363
+Synch: Sending query: time=?;478
+Received reply: time=;1146625922752;478
+Synch Success: SAftr=1146625922782, SBfr=1146625922741, D=20, M=1146625922752
+Scheduled a DoS to fire after 227ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625923001 364
+Synch: Sending query: time=?;479
+Received reply: time=;1146625923116;479
+Synch Success: SAftr=1146625923146, SBfr=1146625923105, D=20, M=1146625923116
+Scheduled a DoS to fire after 358ms
+Synch: Sending query: time=?;480
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625923501 365
+Received reply: time=;1146625923485;480
+Synch Success: SAftr=1146625923515, SBfr=1146625923475, D=20, M=1146625923485
+Scheduled a DoS to fire after 494ms
+Synch: Sending query: time=?;481
+Received reply: time=;1146625923848;481
+Synch Success: SAftr=1146625923878, SBfr=1146625923838, D=20, M=1146625923848
+Scheduled a DoS to fire after 129ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625924001 366
+Synch: Sending query: time=?;482
+Received reply: time=;1146625924213;482
+Synch Success: SAftr=1146625924243, SBfr=1146625924203, D=20, M=1146625924213
+Scheduled a DoS to fire after 266ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625924501 367
+Synch: Sending query: time=?;483
+Received reply: time=;1146625924576;483
+Synch Success: SAftr=1146625924605, SBfr=1146625924565, D=20, M=1146625924576
+Scheduled a DoS to fire after 403ms
+Synch: Sending query: time=?;484
+Received reply: time=;1146625924944;484
+Synch Success: SAftr=1146625924974, SBfr=1146625924934, D=20, M=1146625924944
+Scheduled a DoS to fire after 33ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625925002 368
+Synch: Sending query: time=?;485
+Received reply: time=;1146625925309;485
+Synch Success: SAftr=1146625925342, SBfr=1146625925298, D=22, M=1146625925309
+Scheduled a DoS to fire after 163ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625925502 369
+Synch: Sending query: time=?;486
+Received reply: time=;1146625925681;486
+Synch Success: SAftr=1146625925952, SBfr=1146625925670, D=141, M=1146625925681
+Scheduled a DoS to fire after 171ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625926002 370
+Synch: Sending query: time=?;487
+Received reply: time=;1146625926293;487
+Synch Success: SAftr=1146625926322, SBfr=1146625926282, D=20, M=1146625926293
+Scheduled a DoS to fire after 183ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625926501 371
+Synch: Sending query: time=?;488
+Received reply: time=;1146625926658;488
+Synch Success: SAftr=1146625926688, SBfr=1146625926648, D=20, M=1146625926658
+Scheduled a DoS to fire after 317ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625927002 372
+Synch: Sending query: time=?;489
+Received reply: time=;1146625927024;489
+Synch Success: SAftr=1146625927058, SBfr=1146625927014, D=22, M=1146625927024
+Scheduled a DoS to fire after 437ms
+Synch: Sending query: time=?;490
+Received reply: time=;1146625927406;490
+Synch Success: SAftr=1146625927435, SBfr=1146625927396, D=19, M=1146625927406
+Scheduled a DoS to fire after 74ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625927504 373
+Synch: Sending query: time=?;491
+Received reply: time=;1146625927768;491
+Synch Success: SAftr=1146625927798, SBfr=1146625927758, D=20, M=1146625927768
+Scheduled a DoS to fire after 211ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625928002 374
+Synch: Sending query: time=?;492
+Received reply: time=;1146625928133;492
+Synch Success: SAftr=1146625928163, SBfr=1146625928123, D=20, M=1146625928133
+Scheduled a DoS to fire after 346ms
+Synch: Sending query: time=?;493
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625928502 375
+Received reply: time=;1146625928496;493
+Synch Success: SAftr=1146625928533, SBfr=1146625928486, D=23, M=1146625928496
+Scheduled a DoS to fire after 478ms
+Synch: Sending query: time=?;494
+Received reply: time=;1146625928869;494
+Synch Success: SAftr=1146625928898, SBfr=1146625928858, D=20, M=1146625928869
+Scheduled a DoS to fire after 110ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625929002 376
+Synch: Sending query: time=?;495
+Received reply: time=;1146625929233;495
+Synch Success: SAftr=1146625929263, SBfr=1146625929222, D=20, M=1146625929233
+Scheduled a DoS to fire after 243ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625929502 377
+Synch: Sending query: time=?;496
+Received reply: time=;1146625929601;496
+Synch Success: SAftr=1146625929630, SBfr=1146625929590, D=20, M=1146625929601
+Scheduled a DoS to fire after 378ms
+Synch: Sending query: time=?;497
+Received reply: time=;1146625929968;497
+Synch Success: SAftr=1146625929998, SBfr=1146625929958, D=20, M=1146625929968
+Scheduled a DoS to fire after 11ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625930002 378
+Synch: Sending query: time=?;498
+Received reply: time=;1146625930332;498
+Synch Success: SAftr=1146625930362, SBfr=1146625930322, D=20, M=1146625930332
+Scheduled a DoS to fire after 147ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625930502 379
+Synch: Sending query: time=?;499
+Received reply: time=;1146625930699;499
+Synch Success: SAftr=1146625930729, SBfr=1146625930689, D=20, M=1146625930699
+Scheduled a DoS to fire after 278ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625931003 380
+Synch: Sending query: time=?;500
+Received reply: time=;1146625931073;500
+Synch Success: SAftr=1146625931105, SBfr=1146625931063, D=21, M=1146625931073
+Scheduled a DoS to fire after 404ms
+Synch: Sending query: time=?;501
+Received reply: time=;1146625931447;501
+Synch Success: SAftr=1146625931477, SBfr=1146625931435, D=21, M=1146625931447
+Scheduled a DoS to fire after 27ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625931516 381
+Synch: Sending query: time=?;502
+Received reply: time=;1146625931814;502
+Synch Success: SAftr=1146625931848, SBfr=1146625931804, D=22, M=1146625931814
+Scheduled a DoS to fire after 157ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625932001 382
+Synch: Sending query: time=?;503
+Received reply: time=;1146625932187;503
+Synch Success: SAftr=1146625932217, SBfr=1146625932177, D=20, M=1146625932187
+Scheduled a DoS to fire after 291ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625932501 383
+Synch: Sending query: time=?;504
+Received reply: time=;1146625932553;504
+Synch Success: SAftr=1146625932590, SBfr=1146625932542, D=24, M=1146625932553
+Scheduled a DoS to fire after 421ms
+Synch: Sending query: time=?;505
+Received reply: time=;1146625932935;505
+Synch Success: SAftr=1146625932965, SBfr=1146625932925, D=20, M=1146625932935
+Scheduled a DoS to fire after 43ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625933009 384
+Synch: Sending query: time=?;506
+Received reply: time=;1146625933299;506
+Synch Success: SAftr=1146625933329, SBfr=1146625933289, D=20, M=1146625933299
+Scheduled a DoS to fire after 180ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625933505 385
+Synch: Sending query: time=?;507
+Received reply: time=;1146625933661;507
+Synch Success: SAftr=1146625933691, SBfr=1146625933651, D=20, M=1146625933661
+Scheduled a DoS to fire after 316ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625934001 386
+Synch: Sending query: time=?;508
+Received reply: time=;1146625934027;508
+Synch Success: SAftr=1146625934057, SBfr=1146625934017, D=20, M=1146625934027
+Scheduled a DoS to fire after 452ms
+Synch: Sending query: time=?;509
+Received reply: time=;1146625934389;509
+Synch Success: SAftr=1146625934419, SBfr=1146625934379, D=20, M=1146625934389
+Scheduled a DoS to fire after 88ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625934510 387
+Synch: Sending query: time=?;510
+Received reply: time=;1146625934756;510
+Synch Success: SAftr=1146625934785, SBfr=1146625934745, D=20, M=1146625934756
+Scheduled a DoS to fire after 223ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625935001 388
+Synch: Sending query: time=?;511
+Received reply: time=;1146625935119;511
+Synch Success: SAftr=1146625935148, SBfr=1146625935108, D=20, M=1146625935119
+Scheduled a DoS to fire after 355ms
+Synch: Sending query: time=?;512
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625935501 389
+Received reply: time=;1146625935487;512
+Synch Success: SAftr=1146625935519, SBfr=1146625935475, D=22, M=1146625935487
+Scheduled a DoS to fire after 482ms
+Synch: Sending query: time=?;513
+Received reply: time=;1146625935861;513
+Synch Success: SAftr=1146625935891, SBfr=1146625935850, D=20, M=1146625935861
+Scheduled a DoS to fire after 117ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625936003 390
+Synch: Sending query: time=?;514
+Received reply: time=;1146625936224;514
+Synch Success: SAftr=1146625936254, SBfr=1146625936214, D=20, M=1146625936224
+Scheduled a DoS to fire after 255ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625936502 391
+Synch: Sending query: time=?;515
+Received reply: time=;1146625936590;515
+Synch Success: SAftr=1146625936620, SBfr=1146625936580, D=20, M=1146625936590
+Scheduled a DoS to fire after 388ms
+Synch: Sending query: time=?;516
+Received reply: time=;1146625936953;516
+Synch Success: SAftr=1146625936983, SBfr=1146625936943, D=20, M=1146625936953
+Scheduled a DoS to fire after 25ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625937003 392
+Synch: Sending query: time=?;517
+Received reply: time=;1146625937319;517
+Synch Success: SAftr=1146625937348, SBfr=1146625937309, D=19, M=1146625937319
+Scheduled a DoS to fire after 160ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625937502 393
+Synch: Sending query: time=?;518
+Received reply: time=;1146625937682;518
+Synch Success: SAftr=1146625937713, SBfr=1146625937672, D=20, M=1146625937682
+Scheduled a DoS to fire after 296ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625938002 394
+Synch: Sending query: time=?;519
+Received reply: time=;1146625938050;519
+Synch Success: SAftr=1146625938079, SBfr=1146625938039, D=20, M=1146625938050
+Scheduled a DoS to fire after 416ms
+Synch: Sending query: time=?;520
+Received reply: time=;1146625938426;520
+Synch Success: SAftr=1146625938456, SBfr=1146625938416, D=20, M=1146625938426
+Scheduled a DoS to fire after 47ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625938502 395
+Synch: Sending query: time=?;521
+Received reply: time=;1146625938797;521
+Synch Success: SAftr=1146625938826, SBfr=1146625938787, D=19, M=1146625938797
+Scheduled a DoS to fire after 181ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625939004 396
+Synch: Sending query: time=?;522
+Received reply: time=;1146625939167;522
+Synch Success: SAftr=1146625939197, SBfr=1146625939157, D=20, M=1146625939167
+Scheduled a DoS to fire after 312ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625939501 397
+Synch: Sending query: time=?;523
+Received reply: time=;1146625939530;523
+Synch Success: SAftr=1146625939560, SBfr=1146625939519, D=20, M=1146625939530
+Scheduled a DoS to fire after 387ms
+Synch: Sending query: time=?;524
+Received reply: time=;1146625939957;524
+Synch Success: SAftr=1146625939987, SBfr=1146625939947, D=20, M=1146625939957
+Scheduled a DoS to fire after 14ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625940001 398
+Synch: Sending query: time=?;525
+Received reply: time=;1146625940328;525
+Synch Success: SAftr=1146625940360, SBfr=1146625940317, D=21, M=1146625940328
+Scheduled a DoS to fire after 144ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625940501 399
+Synch: Sending query: time=?;526
+Received reply: time=;1146625940705;526
+Synch Success: SAftr=1146625940742, SBfr=1146625940695, D=23, M=1146625940705
+Scheduled a DoS to fire after 270ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625941002 400
+Synch: Sending query: time=?;527
+Received reply: time=;1146625941079;527
+Synch Success: SAftr=1146625941113, SBfr=1146625941069, D=22, M=1146625941079
+Scheduled a DoS to fire after 389ms
+Synch: Sending query: time=?;528
+Received reply: time=;1146625941455;528
+Synch Success: SAftr=1146625941484, SBfr=1146625941444, D=20, M=1146625941455
+Scheduled a DoS to fire after 23ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625941502 401
+Synch: Sending query: time=?;529
+Received reply: time=;1146625941827;529
+Synch Success: SAftr=1146625941856, SBfr=1146625941816, D=20, M=1146625941827
+Scheduled a DoS to fire after 152ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625942001 402
+Synch: Sending query: time=?;530
+Received reply: time=;1146625942189;530
+Synch Success: SAftr=1146625942219, SBfr=1146625942179, D=20, M=1146625942189
+Scheduled a DoS to fire after 287ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625942501 403
+Synch: Sending query: time=?;531
+Received reply: time=;1146625942555;531
+Synch Success: SAftr=1146625942585, SBfr=1146625942545, D=20, M=1146625942555
+Scheduled a DoS to fire after 423ms
+Synch: Sending query: time=?;532
+Received reply: time=;1146625942918;532
+Synch Success: SAftr=1146625942948, SBfr=1146625942908, D=20, M=1146625942918
+Scheduled a DoS to fire after 61ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625943001 404
+Synch: Sending query: time=?;533
+Received reply: time=;1146625943280;533
+Synch Success: SAftr=1146625943310, SBfr=1146625943270, D=20, M=1146625943280
+Scheduled a DoS to fire after 199ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625943502 405
+Synch: Sending query: time=?;534
+Received reply: time=;1146625943644;534
+Synch Success: SAftr=1146625943673, SBfr=1146625943633, D=20, M=1146625943644
+Scheduled a DoS to fire after 335ms
+Synch: Sending query: time=?;535
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625944002 406
+Received reply: time=;1146625944007;535
+Synch Success: SAftr=1146625944037, SBfr=1146625943997, D=20, M=1146625944007
+Scheduled a DoS to fire after 450ms
+Synch: Sending query: time=?;536
+Received reply: time=;1146625944394;536
+Synch Success: SAftr=1146625944424, SBfr=1146625944384, D=20, M=1146625944394
+Scheduled a DoS to fire after 82ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625944501 407
+Synch: Sending query: time=?;537
+Received reply: time=;1146625944760;537
+Synch Success: SAftr=1146625944790, SBfr=1146625944750, D=20, M=1146625944760
+Scheduled a DoS to fire after 218ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625945001 408
+Synch: Sending query: time=?;538
+Received reply: time=;1146625945124;538
+Synch Success: SAftr=1146625945154, SBfr=1146625945114, D=20, M=1146625945124
+Scheduled a DoS to fire after 354ms
+Synch: Sending query: time=?;539
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625945501 409
+Received reply: time=;1146625945489;539
+Synch Success: SAftr=1146625945518, SBfr=1146625945479, D=19, M=1146625945489
+Scheduled a DoS to fire after 488ms
+Synch: Sending query: time=?;540
+Received reply: time=;1146625945855;540
+Synch Success: SAftr=1146625945885, SBfr=1146625945845, D=20, M=1146625945855
+Scheduled a DoS to fire after 121ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625946002 410
+Synch: Sending query: time=?;541
+Received reply: time=;1146625946221;541
+Synch Success: SAftr=1146625946250, SBfr=1146625946211, D=19, M=1146625946221
+Scheduled a DoS to fire after 258ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625946502 411
+Synch: Sending query: time=?;542
+Received reply: time=;1146625946584;542
+Synch Success: SAftr=1146625946614, SBfr=1146625946573, D=20, M=1146625946584
+Scheduled a DoS to fire after 394ms
+Synch: Sending query: time=?;543
+Received reply: time=;1146625946948;543
+Synch Success: SAftr=1146625946978, SBfr=1146625946938, D=20, M=1146625946948
+Scheduled a DoS to fire after 30ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625947002 412
+Synch: Sending query: time=?;544
+Received reply: time=;1146625947313;544
+Synch Success: SAftr=1146625947343, SBfr=1146625947302, D=20, M=1146625947313
+Scheduled a DoS to fire after 166ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625947502 413
+Synch: Sending query: time=?;545
+Received reply: time=;1146625947677;545
+Synch Success: SAftr=1146625947708, SBfr=1146625947667, D=20, M=1146625947677
+Scheduled a DoS to fire after 301ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625948002 414
+Synch: Sending query: time=?;546
+Received reply: time=;1146625948050;546
+Synch Success: SAftr=1146625948080, SBfr=1146625948040, D=20, M=1146625948050
+Scheduled a DoS to fire after 427ms
+Synch: Sending query: time=?;547
+Received reply: time=;1146625948421;547
+Synch Success: SAftr=1146625948451, SBfr=1146625948411, D=20, M=1146625948421
+Scheduled a DoS to fire after 50ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625948502 415
+Synch: Sending query: time=?;548
+Received reply: time=;1146625948793;548
+Synch Success: SAftr=1146625948822, SBfr=1146625948783, D=19, M=1146625948793
+Scheduled a DoS to fire after 185ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625949001 416
+Synch: Sending query: time=?;549
+Received reply: time=;1146625949157;549
+Synch Success: SAftr=1146625949187, SBfr=1146625949146, D=20, M=1146625949157
+Scheduled a DoS to fire after 318ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625949502 417
+Synch: Sending query: time=?;550
+Received reply: time=;1146625949526;550
+Synch Success: SAftr=1146625949556, SBfr=1146625949515, D=20, M=1146625949526
+Scheduled a DoS to fire after 449ms
+Synch: Sending query: time=?;551
+Received reply: time=;1146625949898;551
+Synch Success: SAftr=1146625949933, SBfr=1146625949887, D=23, M=1146625949898
+Scheduled a DoS to fire after 75ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625950001 418
+Synch: Sending query: time=?;552
+Received reply: time=;1146625950271;552
+Synch Success: SAftr=1146625950301, SBfr=1146625950260, D=20, M=1146625950271
+Scheduled a DoS to fire after 205ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625950501 419
+Synch: Sending query: time=?;553
+Received reply: time=;1146625950637;553
+Synch Success: SAftr=1146625950667, SBfr=1146625950627, D=20, M=1146625950637
+Scheduled a DoS to fire after 342ms
+Synch: Sending query: time=?;554
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625951004 420
+Received reply: time=;1146625951003;554
+Synch Success: SAftr=1146625951033, SBfr=1146625950992, D=20, M=1146625951003
+Scheduled a DoS to fire after 470ms
+Synch: Sending query: time=?;555
+Received reply: time=;1146625951373;555
+Synch Success: SAftr=1146625951402, SBfr=1146625951362, D=20, M=1146625951373
+Scheduled a DoS to fire after 104ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625951503 421
+Synch: Sending query: time=?;556
+Received reply: time=;1146625951738;556
+Synch Success: SAftr=1146625951770, SBfr=1146625951727, D=21, M=1146625951738
+Scheduled a DoS to fire after 238ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625952003 422
+Synch: Sending query: time=?;557
+Received reply: time=;1146625952115;557
+Synch Success: SAftr=1146625952144, SBfr=1146625952104, D=20, M=1146625952115
+Scheduled a DoS to fire after 360ms
+Synch: Sending query: time=?;558
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625952503 423
+Received reply: time=;1146625952481;558
+Synch Success: SAftr=1146625952518, SBfr=1146625952471, D=23, M=1146625952481
+Scheduled a DoS to fire after 493ms
+Synch: Sending query: time=?;559
+Received reply: time=;1146625952853;559
+Synch Success: SAftr=1146625952883, SBfr=1146625952843, D=20, M=1146625952853
+Scheduled a DoS to fire after 124ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625953007 424
+Synch: Sending query: time=?;560
+Received reply: time=;1146625953219;560
+Synch Success: SAftr=1146625953250, SBfr=1146625953209, D=20, M=1146625953219
+Scheduled a DoS to fire after 257ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625953504 425
+Synch: Sending query: time=?;561
+Received reply: time=;1146625953586;561
+Synch Success: SAftr=1146625953618, SBfr=1146625953575, D=21, M=1146625953586
+Scheduled a DoS to fire after 387ms
+Synch: Sending query: time=?;562
+Received reply: time=;1146625953957;562
+Synch Success: SAftr=1146625953986, SBfr=1146625953947, D=19, M=1146625953957
+Scheduled a DoS to fire after 16ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625954002 426
+Synch: Sending query: time=?;563
+Received reply: time=;1146625954326;563
+Synch Success: SAftr=1146625954357, SBfr=1146625954316, D=20, M=1146625954326
+Scheduled a DoS to fire after 150ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625954511 427
+Synch: Sending query: time=?;564
+Received reply: time=;1146625954693;564
+Synch Success: SAftr=1146625954722, SBfr=1146625954683, D=19, M=1146625954693
+Scheduled a DoS to fire after 282ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625955002 428
+Synch: Sending query: time=?;565
+Received reply: time=;1146625955062;565
+Synch Success: SAftr=1146625955094, SBfr=1146625955052, D=21, M=1146625955062
+Scheduled a DoS to fire after 393ms
+Synch: Sending query: time=?;566
+Received reply: time=;1146625955453;566
+Synch Success: SAftr=1146625955483, SBfr=1146625955443, D=20, M=1146625955453
+Scheduled a DoS to fire after 21ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625955502 429
+Synch: Sending query: time=?;567
+Received reply: time=;1146625955821;567
+Synch Success: SAftr=1146625955851, SBfr=1146625955811, D=20, M=1146625955821
+Scheduled a DoS to fire after 158ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625956002 430
+Synch: Sending query: time=?;568
+Received reply: time=;1146625956184;568
+Synch Success: SAftr=1146625956214, SBfr=1146625956174, D=20, M=1146625956184
+Scheduled a DoS to fire after 292ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625956502 431
+Synch: Sending query: time=?;569
+Received reply: time=;1146625956557;569
+Synch Success: SAftr=1146625956587, SBfr=1146625956547, D=20, M=1146625956557
+Scheduled a DoS to fire after 420ms
+Synch: Sending query: time=?;570
+Received reply: time=;1146625956924;570
+Synch Success: SAftr=1146625956954, SBfr=1146625956914, D=20, M=1146625956924
+Scheduled a DoS to fire after 52ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625957001 432
+Synch: Sending query: time=?;571
+Received reply: time=;1146625957290;571
+Synch Success: SAftr=1146625957321, SBfr=1146625957280, D=20, M=1146625957290
+Scheduled a DoS to fire after 158ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625957503 433
+Synch: Sending query: time=?;572
+Received reply: time=;1146625957688;572
+Synch Success: SAftr=1146625957718, SBfr=1146625957678, D=20, M=1146625957688
+Scheduled a DoS to fire after 288ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625958001 434
+Synch: Sending query: time=?;573
+Received reply: time=;1146625958058;573
+Synch Success: SAftr=1146625958091, SBfr=1146625958048, D=21, M=1146625958058
+Scheduled a DoS to fire after 402ms
+Synch: Sending query: time=?;574
+Received reply: time=;1146625958442;574
+Synch Success: SAftr=1146625958472, SBfr=1146625958431, D=20, M=1146625958442
+Scheduled a DoS to fire after 34ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625958503 435
+Synch: Sending query: time=?;575
+Received reply: time=;1146625958808;575
+Synch Success: SAftr=1146625958838, SBfr=1146625958798, D=20, M=1146625958808
+Scheduled a DoS to fire after 150ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625959001 436
+Synch: Sending query: time=?;576
+Received reply: time=;1146625959197;576
+Synch Success: SAftr=1146625959227, SBfr=1146625959186, D=20, M=1146625959197
+Scheduled a DoS to fire after 259ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625959501 437
+Synch: Sending query: time=?;577
+Received reply: time=;1146625959582;577
+Synch Success: SAftr=1146625959615, SBfr=1146625959572, D=21, M=1146625959582
+Scheduled a DoS to fire after 382ms
+Synch: Sending query: time=?;578
+Received reply: time=;1146625959962;578
+Synch Success: SAftr=1146625959992, SBfr=1146625959952, D=20, M=1146625959962
+Scheduled a DoS to fire after 17ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625960001 438
+Synch: Sending query: time=?;579
+Received reply: time=;1146625960326;579
+Synch Success: SAftr=1146625960356, SBfr=1146625960314, D=21, M=1146625960326
+Scheduled a DoS to fire after 152ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625960501 439
+Synch: Sending query: time=?;580
+Received reply: time=;1146625960690;580
+Synch Success: SAftr=1146625960720, SBfr=1146625960680, D=20, M=1146625960690
+Scheduled a DoS to fire after 280ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625961004 440
+Synch: Sending query: time=?;581
+Received reply: time=;1146625961064;581
+Synch Success: SAftr=1146625961093, SBfr=1146625961054, D=19, M=1146625961064
+Scheduled a DoS to fire after 413ms
+Synch: Sending query: time=?;582
+Received reply: time=;1146625961429;582
+Synch Success: SAftr=1146625961460, SBfr=1146625961419, D=20, M=1146625961429
+Scheduled a DoS to fire after 47ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625961503 441
+Synch: Sending query: time=?;583
+Received reply: time=;1146625961795;583
+Synch Success: SAftr=1146625961825, SBfr=1146625961785, D=20, M=1146625961795
+Scheduled a DoS to fire after 183ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625962002 442
+Synch: Sending query: time=?;584
+Received reply: time=;1146625962159;584
+Synch Success: SAftr=1146625962189, SBfr=1146625962149, D=20, M=1146625962159
+Scheduled a DoS to fire after 319ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625962501 443
+Synch: Sending query: time=?;585
+Received reply: time=;1146625962525;585
+Synch Success: SAftr=1146625962794, SBfr=1146625962515, D=139, M=1146625962525
+Scheduled a DoS to fire after 335ms
+Synch: Sending query: time=?;586
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625963001 444
+Received reply: time=;1146625963133;586
+Synch Success: SAftr=1146625963163, SBfr=1146625963121, D=21, M=1146625963133
+Scheduled a DoS to fire after 342ms
+Synch: Sending query: time=?;587
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625963502 445
+Received reply: time=;1146625963499;587
+Synch Success: SAftr=1146625963529, SBfr=1146625963489, D=20, M=1146625963499
+Scheduled a DoS to fire after 480ms
+Synch: Sending query: time=?;588
+Received reply: time=;1146625963862;588
+Synch Success: SAftr=1146625963894, SBfr=1146625963852, D=21, M=1146625963862
+Scheduled a DoS to fire after 112ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625964003 446
+Synch: Sending query: time=?;589
+Received reply: time=;1146625964232;589
+Synch Success: SAftr=1146625964262, SBfr=1146625964222, D=20, M=1146625964232
+Scheduled a DoS to fire after 246ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625964502 447
+Synch: Sending query: time=?;590
+Received reply: time=;1146625964595;590
+Synch Success: SAftr=1146625964624, SBfr=1146625964585, D=19, M=1146625964595
+Scheduled a DoS to fire after 385ms
+Synch: Sending query: time=?;591
+Received reply: time=;1146625964957;591
+Synch Success: SAftr=1146625964987, SBfr=1146625964947, D=20, M=1146625964957
+Scheduled a DoS to fire after 20ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625965003 448
+Synch: Sending query: time=?;592
+Received reply: time=;1146625965322;592
+Synch Success: SAftr=1146625965352, SBfr=1146625965312, D=20, M=1146625965322
+Scheduled a DoS to fire after 154ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625965502 449
+Synch: Sending query: time=?;593
+Received reply: time=;1146625965688;593
+Synch Success: SAftr=1146625965717, SBfr=1146625965677, D=20, M=1146625965688
+Scheduled a DoS to fire after 239ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625966001 450
+Synch: Sending query: time=?;594
+Received reply: time=;1146625966110;594
+Synch Success: SAftr=1146625966139, SBfr=1146625966099, D=20, M=1146625966110
+Scheduled a DoS to fire after 365ms
+Synch: Sending query: time=?;595
+Received reply: time=;1146625966476;595
+Synch Success: SAftr=1146625966505, SBfr=1146625966466, D=19, M=1146625966476
+Scheduled a DoS to fire after 4ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625966501 451
+Synch: Sending query: time=?;596
+Received reply: time=;1146625966840;596
+Synch Success: SAftr=1146625966876, SBfr=1146625966829, D=23, M=1146625966840
+Scheduled a DoS to fire after 136ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625967002 452
+Synch: Sending query: time=?;597
+Received reply: time=;1146625967209;597
+Synch Success: SAftr=1146625967246, SBfr=1146625967198, D=24, M=1146625967209
+Scheduled a DoS to fire after 261ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625967501 453
+Synch: Sending query: time=?;598
+Received reply: time=;1146625967601;598
+Synch Success: SAftr=1146625967630, SBfr=1146625967590, D=20, M=1146625967601
+Scheduled a DoS to fire after 378ms
+Synch: Sending query: time=?;599
+Received reply: time=;1146625967965;599
+Synch Success: SAftr=1146625967994, SBfr=1146625967954, D=20, M=1146625967965
+Scheduled a DoS to fire after 13ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625968003 454
+Synch: Sending query: time=?;600
+Received reply: time=;1146625968328;600
+Synch Success: SAftr=1146625968358, SBfr=1146625968318, D=20, M=1146625968328
+Scheduled a DoS to fire after 151ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625968502 455
+Synch: Sending query: time=?;601
+Received reply: time=;1146625968692;601
+Synch Success: SAftr=1146625968721, SBfr=1146625968681, D=20, M=1146625968692
+Scheduled a DoS to fire after 287ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625969001 456
+Synch: Sending query: time=?;602
+Received reply: time=;1146625969060;602
+Synch Success: SAftr=1146625969090, SBfr=1146625969050, D=20, M=1146625969060
+Scheduled a DoS to fire after 413ms
+Synch: Sending query: time=?;603
+Received reply: time=;1146625969429;603
+Synch Success: SAftr=1146625969459, SBfr=1146625969418, D=20, M=1146625969429
+Scheduled a DoS to fire after 50ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625969503 457
+Synch: Sending query: time=?;604
+Received reply: time=;1146625969793;604
+Synch Success: SAftr=1146625969828, SBfr=1146625969783, D=22, M=1146625969793
+Scheduled a DoS to fire after 181ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625970001 458
+Synch: Sending query: time=?;605
+Received reply: time=;1146625970165;605
+Synch Success: SAftr=1146625970194, SBfr=1146625970154, D=20, M=1146625970165
+Scheduled a DoS to fire after 313ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625970502 459
+Synch: Sending query: time=?;606
+Received reply: time=;1146625970530;606
+Synch Success: SAftr=1146625970561, SBfr=1146625970519, D=21, M=1146625970530
+Scheduled a DoS to fire after 438ms
+Synch: Sending query: time=?;607
+Received reply: time=;1146625970903;607
+Synch Success: SAftr=1146625970933, SBfr=1146625970893, D=20, M=1146625970903
+Scheduled a DoS to fire after 75ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625971002 460
+Synch: Sending query: time=?;608
+Received reply: time=;1146625971269;608
+Synch Success: SAftr=1146625971300, SBfr=1146625971259, D=20, M=1146625971269
+Scheduled a DoS to fire after 209ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625971502 461
+Synch: Sending query: time=?;609
+Received reply: time=;1146625971633;609
+Synch Success: SAftr=1146625971663, SBfr=1146625971623, D=20, M=1146625971633
+Scheduled a DoS to fire after 343ms
+Synch: Sending query: time=?;610
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625972003 462
+Received reply: time=;1146625972000;610
+Synch Success: SAftr=1146625972032, SBfr=1146625971990, D=21, M=1146625972000
+Scheduled a DoS to fire after 477ms
+Synch: Sending query: time=?;611
+Received reply: time=;1146625972366;611
+Synch Success: SAftr=1146625972398, SBfr=1146625972356, D=21, M=1146625972366
+Scheduled a DoS to fire after 107ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625972502 463
+Synch: Sending query: time=?;612
+Received reply: time=;1146625972737;612
+Synch Success: SAftr=1146625972766, SBfr=1146625972727, D=19, M=1146625972737
+Scheduled a DoS to fire after 242ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625973002 464
+Synch: Sending query: time=?;613
+Received reply: time=;1146625973104;613
+Synch Success: SAftr=1146625973134, SBfr=1146625973094, D=20, M=1146625973104
+Scheduled a DoS to fire after 375ms
+Synch: Sending query: time=?;614
+Received reply: time=;1146625973470;614
+Synch Success: SAftr=1146625973500, SBfr=1146625973460, D=20, M=1146625973470
+Scheduled a DoS to fire after 8ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625973501 465
+Synch: Sending query: time=?;615
+Received reply: time=;1146625973834;615
+Synch Success: SAftr=1146625973863, SBfr=1146625973823, D=20, M=1146625973834
+Scheduled a DoS to fire after 141ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625974002 466
+Synch: Sending query: time=?;616
+Received reply: time=;1146625974201;616
+Synch Success: SAftr=1146625974230, SBfr=1146625974190, D=20, M=1146625974201
+Scheduled a DoS to fire after 278ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625974502 467
+Synch: Sending query: time=?;617
+Received reply: time=;1146625974571;617
+Synch Success: SAftr=1146625974600, SBfr=1146625974561, D=19, M=1146625974571
+Scheduled a DoS to fire after 409ms
+Synch: Sending query: time=?;618
+Received reply: time=;1146625974933;618
+Synch Success: SAftr=1146625974963, SBfr=1146625974922, D=20, M=1146625974933
+Scheduled a DoS to fire after 41ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625975001 468
+Synch: Sending query: time=?;619
+Received reply: time=;1146625975302;619
+Synch Success: SAftr=1146625975331, SBfr=1146625975291, D=20, M=1146625975302
+Scheduled a DoS to fire after 177ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625975501 469
+Synch: Sending query: time=?;620
+Received reply: time=;1146625975664;620
+Synch Success: SAftr=1146625975694, SBfr=1146625975654, D=20, M=1146625975664
+Scheduled a DoS to fire after 314ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625976001 470
+Synch: Sending query: time=?;621
+Received reply: time=;1146625976028;621
+Synch Success: SAftr=1146625976058, SBfr=1146625976017, D=20, M=1146625976028
+Scheduled a DoS to fire after 448ms
+Synch: Sending query: time=?;622
+Received reply: time=;1146625976403;622
+Synch Success: SAftr=1146625976434, SBfr=1146625976392, D=21, M=1146625976403
+Scheduled a DoS to fire after 69ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625976501 471
+Synch: Sending query: time=?;623
+Received reply: time=;1146625976782;623
+Synch Success: SAftr=1146625976811, SBfr=1146625976771, D=20, M=1146625976782
+Scheduled a DoS to fire after 196ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625977002 472
+Synch: Sending query: time=?;624
+Received reply: time=;1146625977145;624
+Synch Success: SAftr=1146625977177, SBfr=1146625977135, D=21, M=1146625977145
+Scheduled a DoS to fire after 327ms
+Synch: Sending query: time=?;625
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625977501 473
+Received reply: time=;1146625977517;625
+Synch Success: SAftr=1146625977549, SBfr=1146625977507, D=21, M=1146625977517
+Scheduled a DoS to fire after 458ms
+Synch: Sending query: time=?;626
+Received reply: time=;1146625977894;626
+Synch Success: SAftr=1146625977923, SBfr=1146625977884, D=19, M=1146625977894
+Scheduled a DoS to fire after 84ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625978004 474
+Synch: Sending query: time=?;627
+Received reply: time=;1146625978260;627
+Synch Success: SAftr=1146625978289, SBfr=1146625978250, D=19, M=1146625978260
+Scheduled a DoS to fire after 219ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625978502 475
+Synch: Sending query: time=?;628
+Received reply: time=;1146625978622;628
+Synch Success: SAftr=1146625978652, SBfr=1146625978612, D=20, M=1146625978622
+Scheduled a DoS to fire after 356ms
+Synch: Sending query: time=?;629
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625979001 476
+Received reply: time=;1146625978986;629
+Synch Success: SAftr=1146625979016, SBfr=1146625978975, D=20, M=1146625978986
+Scheduled a DoS to fire after 491ms
+Synch: Sending query: time=?;630
+Received reply: time=;1146625979352;630
+Synch Success: SAftr=1146625979382, SBfr=1146625979341, D=20, M=1146625979352
+Scheduled a DoS to fire after 115ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625979502 477
+Synch: Sending query: time=?;631
+Received reply: time=;1146625979727;631
+Synch Success: SAftr=1146625979757, SBfr=1146625979717, D=20, M=1146625979727
+Scheduled a DoS to fire after 252ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625980002 478
+Synch: Sending query: time=?;632
+Received reply: time=;1146625980090;632
+Synch Success: SAftr=1146625980119, SBfr=1146625980079, D=20, M=1146625980090
+Scheduled a DoS to fire after 387ms
+Synch: Sending query: time=?;633
+Received reply: time=;1146625980455;633
+Synch Success: SAftr=1146625980485, SBfr=1146625980444, D=20, M=1146625980455
+Scheduled a DoS to fire after 16ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625980502 479
+Synch: Sending query: time=?;634
+Received reply: time=;1146625980828;634
+Synch Success: SAftr=1146625980858, SBfr=1146625980818, D=20, M=1146625980828
+Scheduled a DoS to fire after 151ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625981002 480
+Synch: Sending query: time=?;635
+Received reply: time=;1146625981190;635
+Synch Success: SAftr=1146625981221, SBfr=1146625981180, D=20, M=1146625981190
+Scheduled a DoS to fire after 286ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625981502 481
+Synch: Sending query: time=?;636
+Received reply: time=;1146625981561;636
+Synch Success: SAftr=1146625981590, SBfr=1146625981550, D=20, M=1146625981561
+Scheduled a DoS to fire after 417ms
+Synch: Sending query: time=?;637
+Received reply: time=;1146625981924;637
+Synch Success: SAftr=1146625981954, SBfr=1146625981914, D=20, M=1146625981924
+Scheduled a DoS to fire after 55ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625982002 482
+Synch: Sending query: time=?;638
+Received reply: time=;1146625982288;638
+Synch Success: SAftr=1146625982318, SBfr=1146625982278, D=20, M=1146625982288
+Scheduled a DoS to fire after 188ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625982502 483
+Synch: Sending query: time=?;639
+Received reply: time=;1146625982654;639
+Synch Success: SAftr=1146625982683, SBfr=1146625982644, D=19, M=1146625982654
+Scheduled a DoS to fire after 319ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625983002 484
+Synch: Sending query: time=?;640
+Received reply: time=;1146625983024;640
+Synch Success: SAftr=1146625983054, SBfr=1146625983013, D=20, M=1146625983024
+Scheduled a DoS to fire after 455ms
+Synch: Sending query: time=?;641
+Received reply: time=;1146625983388;641
+Synch Success: SAftr=1146625983418, SBfr=1146625983378, D=20, M=1146625983388
+Scheduled a DoS to fire after 88ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625983502 485
+Synch: Sending query: time=?;642
+Received reply: time=;1146625983756;642
+Synch Success: SAftr=1146625983785, SBfr=1146625983745, D=20, M=1146625983756
+Scheduled a DoS to fire after 222ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625984001 486
+Synch: Sending query: time=?;643
+Received reply: time=;1146625984120;643
+Synch Success: SAftr=1146625984392, SBfr=1146625984110, D=141, M=1146625984120
+Scheduled a DoS to fire after 236ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625984501 487
+Synch: Sending query: time=?;644
+Received reply: time=;1146625984727;644
+Synch Success: SAftr=1146625984756, SBfr=1146625984717, D=19, M=1146625984727
+Scheduled a DoS to fire after 251ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625985001 488
+Synch: Sending query: time=?;645
+Received reply: time=;1146625985092;645
+Synch Success: SAftr=1146625985123, SBfr=1146625985082, D=20, M=1146625985092
+Scheduled a DoS to fire after 385ms
+Synch: Sending query: time=?;646
+Received reply: time=;1146625985458;646
+Synch Success: SAftr=1146625985488, SBfr=1146625985448, D=20, M=1146625985458
+Scheduled a DoS to fire after 20ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625985503 489
+Synch: Sending query: time=?;647
+Received reply: time=;1146625985823;647
+Synch Success: SAftr=1146625985852, SBfr=1146625985813, D=19, M=1146625985823
+Scheduled a DoS to fire after 155ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625986001 490
+Synch: Sending query: time=?;648
+Received reply: time=;1146625986186;648
+Synch Success: SAftr=1146625986216, SBfr=1146625986176, D=20, M=1146625986186
+Scheduled a DoS to fire after 293ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625986501 491
+Synch: Sending query: time=?;649
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625987002 492
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625987503 493
+Attempt: Sending query: time=?;650
+Received reply: time=;1146625987578;650
+Synch Success: SAftr=1146625987618, SBfr=1146625987566, D=26, M=1146625987578
+Scheduled a DoS to fire after 392ms
+Synch: Sending query: time=?;651
+Received reply: time=;1146625987955;651
+Synch Success: SAftr=1146625987987, SBfr=1146625987945, D=21, M=1146625987955
+Scheduled a DoS to fire after 10ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625988001 494
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625988502 495
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625989004 496
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625989505 497
+Received reply: time=;1146625986553;649
+Synch Failure: sn and snPrime are not equal
+Synch: Sending query: time=?;652
+Received reply: time=;1146625989620;652
+Synch Success: SAftr=1146625989649, SBfr=1146625989609, D=20, M=1146625989620
+Scheduled a DoS to fire after 359ms
+Synch: Sending query: time=?;653
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625990002 498
+Received reply: time=;1146625989985;653
+Synch Success: SAftr=1146625990015, SBfr=1146625989974, D=20, M=1146625989985
+Scheduled a DoS to fire after 494ms
+Synch: Sending query: time=?;654
+Received reply: time=;1146625990348;654
+Synch Success: SAftr=1146625990378, SBfr=1146625990338, D=20, M=1146625990348
+Scheduled a DoS to fire after 131ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625990502 499
+Synch: Sending query: time=?;655
+Received reply: time=;1146625990711;655
+Synch Success: SAftr=1146625990741, SBfr=1146625990701, D=20, M=1146625990711
+Scheduled a DoS to fire after 268ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625991002 500
+Synch: Sending query: time=?;656
+Received reply: time=;1146625991077;656
+Synch Success: SAftr=1146625991110, SBfr=1146625991066, D=22, M=1146625991077
+Scheduled a DoS to fire after 380ms
+Synch: Sending query: time=?;657
+Received reply: time=;1146625991470;657
+Synch Success: SAftr=1146625991500, SBfr=1146625991460, D=20, M=1146625991470
+Scheduled a DoS to fire after 5ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625991501 501
+Synch: Sending query: time=?;658
+Received reply: time=;1146625991841;658
+Synch Success: SAftr=1146625991873, SBfr=1146625991831, D=21, M=1146625991841
+Scheduled a DoS to fire after 134ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625992001 502
+Synch: Sending query: time=?;659
+Received reply: time=;1146625992222;659
+Synch Success: SAftr=1146625992252, SBfr=1146625992212, D=20, M=1146625992222
+Scheduled a DoS to fire after 251ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625992501 503
+Synch: Sending query: time=?;660
+Received reply: time=;1146625992592;660
+Synch Success: SAftr=1146625992622, SBfr=1146625992581, D=20, M=1146625992592
+Scheduled a DoS to fire after 384ms
+Synch: Sending query: time=?;661
+Received reply: time=;1146625992958;661
+Synch Success: SAftr=1146625992989, SBfr=1146625992948, D=20, M=1146625992958
+Scheduled a DoS to fire after 19ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625993003 504
+Synch: Sending query: time=?;662
+Received reply: time=;1146625993324;662
+Synch Success: SAftr=1146625993354, SBfr=1146625993314, D=20, M=1146625993324
+Scheduled a DoS to fire after 155ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625993501 505
+Synch: Sending query: time=?;663
+Received reply: time=;1146625993688;663
+Synch Success: SAftr=1146625993718, SBfr=1146625993678, D=20, M=1146625993688
+Scheduled a DoS to fire after 290ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625994001 506
+Synch: Sending query: time=?;664
+Received reply: time=;1146625994054;664
+Synch Success: SAftr=1146625994084, SBfr=1146625994041, D=21, M=1146625994054
+Scheduled a DoS to fire after 424ms
+Synch: Sending query: time=?;665
+Received reply: time=;1146625994417;665
+Synch Success: SAftr=1146625994446, SBfr=1146625994406, D=20, M=1146625994417
+Scheduled a DoS to fire after 62ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625994502 507
+Synch: Sending query: time=?;666
+Received reply: time=;1146625994780;666
+Synch Success: SAftr=1146625994813, SBfr=1146625994770, D=21, M=1146625994780
+Scheduled a DoS to fire after 179ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625995006 508
+Synch: Sending query: time=?;667
+Received reply: time=;1146625995165;667
+Synch Success: SAftr=1146625995195, SBfr=1146625995155, D=20, M=1146625995165
+Scheduled a DoS to fire after 314ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625995503 509
+Synch: Sending query: time=?;668
+Received reply: time=;1146625995529;668
+Synch Success: SAftr=1146625995558, SBfr=1146625995519, D=19, M=1146625995529
+Scheduled a DoS to fire after 450ms
+Synch: Sending query: time=?;669
+Received reply: time=;1146625995894;669
+Synch Success: SAftr=1146625995925, SBfr=1146625995884, D=20, M=1146625995894
+Scheduled a DoS to fire after 83ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625996003 510
+Synch: Sending query: time=?;670
+Received reply: time=;1146625996261;670
+Synch Success: SAftr=1146625996293, SBfr=1146625996250, D=21, M=1146625996261
+Scheduled a DoS to fire after 208ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625996503 511
+Synch: Sending query: time=?;671
+Received reply: time=;1146625996636;671
+Synch Success: SAftr=1146625996667, SBfr=1146625996625, D=21, M=1146625996636
+Scheduled a DoS to fire after 340ms
+Synch: Sending query: time=?;672
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625997002 512
+Received reply: time=;1146625997002;672
+Synch Success: SAftr=1146625997036, SBfr=1146625996992, D=22, M=1146625997002
+Scheduled a DoS to fire after 474ms
+Synch: Sending query: time=?;673
+Received reply: time=;1146625997373;673
+Synch Success: SAftr=1146625997408, SBfr=1146625997363, D=22, M=1146625997373
+Scheduled a DoS to fire after 104ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625997506 513
+Synch: Sending query: time=?;674
+Received reply: time=;1146625997741;674
+Synch Success: SAftr=1146625997770, SBfr=1146625997731, D=19, M=1146625997741
+Scheduled a DoS to fire after 239ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625998002 514
+Synch: Sending query: time=?;675
+Received reply: time=;1146625998103;675
+Synch Success: SAftr=1146625998133, SBfr=1146625998093, D=20, M=1146625998103
+Scheduled a DoS to fire after 369ms
+Synch: Sending query: time=?;676
+Received reply: time=;1146625998475;676
+Synch Success: SAftr=1146625998506, SBfr=1146625998464, D=21, M=1146625998475
+Scheduled a DoS to fire after 1ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625998500 515
+Synch: Sending query: time=?;677
+Received reply: time=;1146625998840;677
+Synch Success: SAftr=1146625998903, SBfr=1146625998830, D=36, M=1146625998840
+Scheduled a DoS to fire after 123ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625999002 516
+Synch: Sending query: time=?;678
+Received reply: time=;1146625999235;678
+Synch Success: SAftr=1146625999266, SBfr=1146625999225, D=20, M=1146625999235
+Scheduled a DoS to fire after 240ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146625999502 517
+Synch: Sending query: time=?;679
+Received reply: time=;1146625999603;679
+Synch Success: SAftr=1146625999633, SBfr=1146625999593, D=20, M=1146625999603
+Scheduled a DoS to fire after 376ms
+Synch: Sending query: time=?;680
+Received reply: time=;1146625999966;680
+Synch Success: SAftr=1146625999996, SBfr=1146625999956, D=20, M=1146625999966
+Scheduled a DoS to fire after 12ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626000001 518
+Synch: Sending query: time=?;681
+Received reply: time=;1146626000330;681
+Synch Success: SAftr=1146626000362, SBfr=1146626000320, D=21, M=1146626000330
+Scheduled a DoS to fire after 143ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626000502 519
+Synch: Sending query: time=?;682
+Received reply: time=;1146626000707;682
+Synch Success: SAftr=1146626000736, SBfr=1146626000696, D=20, M=1146626000707
+Scheduled a DoS to fire after 272ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626001002 520
+Synch: Sending query: time=?;683
+Received reply: time=;1146626001069;683
+Synch Success: SAftr=1146626001100, SBfr=1146626001059, D=20, M=1146626001069
+Scheduled a DoS to fire after 410ms
+Synch: Sending query: time=?;684
+Received reply: time=;1146626001436;684
+Synch Success: SAftr=1146626001466, SBfr=1146626001425, D=20, M=1146626001436
+Scheduled a DoS to fire after 33ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626001502 521
+Synch: Sending query: time=?;685
+Received reply: time=;1146626001809;685
+Synch Success: SAftr=1146626001839, SBfr=1146626001798, D=20, M=1146626001809
+Scheduled a DoS to fire after 168ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626002001 522
+Synch: Sending query: time=?;686
+Received reply: time=;1146626002176;686
+Synch Success: SAftr=1146626002206, SBfr=1146626002166, D=20, M=1146626002176
+Scheduled a DoS to fire after 302ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626002504 523
+Synch: Sending query: time=?;687
+Received reply: time=;1146626002539;687
+Synch Success: SAftr=1146626002569, SBfr=1146626002529, D=20, M=1146626002539
+Scheduled a DoS to fire after 438ms
+Synch: Sending query: time=?;688
+Received reply: time=;1146626002904;688
+Synch Success: SAftr=1146626002933, SBfr=1146626002894, D=19, M=1146626002904
+Scheduled a DoS to fire after 75ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626003002 524
+Synch: Sending query: time=?;689
+Received reply: time=;1146626003277;689
+Synch Success: SAftr=1146626003317, SBfr=1146626003267, D=25, M=1146626003277
+Scheduled a DoS to fire after 196ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626003502 525
+Synch: Sending query: time=?;690
+Received reply: time=;1146626003653;690
+Synch Success: SAftr=1146626003682, SBfr=1146626003642, D=20, M=1146626003653
+Scheduled a DoS to fire after 324ms
+Synch: Sending query: time=?;691
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626004002 526
+Received reply: time=;1146626004019;691
+Synch Success: SAftr=1146626004055, SBfr=1146626004009, D=23, M=1146626004019
+Scheduled a DoS to fire after 448ms
+Synch: Sending query: time=?;692
+Received reply: time=;1146626004398;692
+Synch Success: SAftr=1146626004428, SBfr=1146626004388, D=20, M=1146626004398
+Scheduled a DoS to fire after 75ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626004501 527
+Synch: Sending query: time=?;693
+Received reply: time=;1146626004771;693
+Synch Success: SAftr=1146626004800, SBfr=1146626004760, D=20, M=1146626004771
+Scheduled a DoS to fire after 191ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626005004 528
+Synch: Sending query: time=?;694
+Received reply: time=;1146626005149;694
+Synch Success: SAftr=1146626005179, SBfr=1146626005139, D=20, M=1146626005149
+Scheduled a DoS to fire after 318ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626005503 529
+Synch: Sending query: time=?;695
+Received reply: time=;1146626005524;695
+Synch Success: SAftr=1146626005556, SBfr=1146626005514, D=21, M=1146626005524
+Scheduled a DoS to fire after 452ms
+Synch: Sending query: time=?;696
+Received reply: time=;1146626005890;696
+Synch Success: SAftr=1146626005921, SBfr=1146626005880, D=20, M=1146626005890
+Scheduled a DoS to fire after 89ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626006002 530
+Synch: Sending query: time=?;697
+Received reply: time=;1146626006257;697
+Synch Success: SAftr=1146626006296, SBfr=1146626006247, D=24, M=1146626006257
+Scheduled a DoS to fire after 218ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626006502 531
+Synch: Sending query: time=?;698
+Received reply: time=;1146626006639;698
+Synch Success: SAftr=1146626006668, SBfr=1146626006629, D=19, M=1146626006639
+Scheduled a DoS to fire after 341ms
+Synch: Sending query: time=?;699
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626007002 532
+Received reply: time=;1146626007002;699
+Synch Success: SAftr=1146626007034, SBfr=1146626006992, D=21, M=1146626007002
+Scheduled a DoS to fire after 457ms
+Synch: Sending query: time=?;700
+Received reply: time=;1146626007398;700
+Synch Success: SAftr=1146626007434, SBfr=1146626007383, D=25, M=1146626007398
+Scheduled a DoS to fire after 73ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626007501 533
+Synch: Sending query: time=?;701
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626008003 534
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626008505 535
+Attempt: Sending query: time=?;702
+Received reply: time=;1146626008807;702
+Synch Success: SAftr=1146626008837, SBfr=1146626008794, D=21, M=1146626008807
+Scheduled a DoS to fire after 172ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626009010 536
+Synch: Sending query: time=?;703
+Received reply: time=;1146626009169;703
+Synch Success: SAftr=1146626009203, SBfr=1146626009159, D=22, M=1146626009169
+Scheduled a DoS to fire after 302ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626009502 537
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626010003 538
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626010509 539
+Received reply: time=;1146626007787;701
+Synch Failure: sn and snPrime are not equal
+Synch: Sending query: time=?;704
+Received reply: time=;1146626010859;704
+Synch Success: SAftr=1146626010889, SBfr=1146626010849, D=20, M=1146626010859
+Scheduled a DoS to fire after 117ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626011001 540
+Synch: Sending query: time=?;705
+Received reply: time=;1146626011227;705
+Synch Success: SAftr=1146626011257, SBfr=1146626011216, D=20, M=1146626011227
+Scheduled a DoS to fire after 250ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626011514 541
+Synch: Sending query: time=?;706
+Received reply: time=;1146626011592;706
+Synch Success: SAftr=1146626011622, SBfr=1146626011581, D=20, M=1146626011592
+Scheduled a DoS to fire after 386ms
+Synch: Sending query: time=?;707
+Received reply: time=;1146626011956;707
+Synch Success: SAftr=1146626011986, SBfr=1146626011946, D=20, M=1146626011956
+Scheduled a DoS to fire after 19ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626012002 542
+Synch: Sending query: time=?;708
+Received reply: time=;1146626012323;708
+Synch Success: SAftr=1146626012354, SBfr=1146626012312, D=21, M=1146626012323
+Scheduled a DoS to fire after 145ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626012502 543
+Synch: Sending query: time=?;709
+Received reply: time=;1146626012698;709
+Synch Success: SAftr=1146626012731, SBfr=1146626012687, D=22, M=1146626012698
+Scheduled a DoS to fire after 277ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626013001 544
+Synch: Sending query: time=?;710
+Received reply: time=;1146626013067;710
+Synch Success: SAftr=1146626013098, SBfr=1146626013057, D=20, M=1146626013067
+Scheduled a DoS to fire after 408ms
+Synch: Sending query: time=?;711
+Received reply: time=;1146626013435;711
+Synch Success: SAftr=1146626013465, SBfr=1146626013424, D=20, M=1146626013435
+Scheduled a DoS to fire after 43ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626013504 545
+Synch: Sending query: time=?;712
+Received reply: time=;1146626013801;712
+Synch Success: SAftr=1146626013830, SBfr=1146626013790, D=20, M=1146626013801
+Scheduled a DoS to fire after 178ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626014002 546
+Synch: Sending query: time=?;713
+Received reply: time=;1146626014191;713
+Synch Success: SAftr=1146626014226, SBfr=1146626014172, D=27, M=1146626014191
+Scheduled a DoS to fire after 281ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626014502 547
+Synch: Sending query: time=?;714
+Received reply: time=;1146626014564;714
+Synch Success: SAftr=1146626014593, SBfr=1146626014553, D=20, M=1146626014564
+Scheduled a DoS to fire after 410ms
+Synch: Sending query: time=?;715
+Received reply: time=;1146626014942;715
+Synch Success: SAftr=1146626014976, SBfr=1146626014925, D=25, M=1146626014942
+Scheduled a DoS to fire after 32ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626015008 548
+Synch: Sending query: time=?;716
+Received reply: time=;1146626015309;716
+Synch Success: SAftr=1146626015338, SBfr=1146626015299, D=19, M=1146626015309
+Scheduled a DoS to fire after 171ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626015502 549
+Synch: Sending query: time=?;717
+Received reply: time=;1146626015671;717
+Synch Success: SAftr=1146626015702, SBfr=1146626015661, D=20, M=1146626015671
+Scheduled a DoS to fire after 307ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626016002 550
+Synch: Sending query: time=?;718
+Received reply: time=;1146626016038;718
+Synch Success: SAftr=1146626016067, SBfr=1146626016028, D=19, M=1146626016038
+Scheduled a DoS to fire after 442ms
+Synch: Sending query: time=?;719
+Received reply: time=;1146626016403;719
+Synch Success: SAftr=1146626016435, SBfr=1146626016392, D=21, M=1146626016403
+Scheduled a DoS to fire after 71ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626016503 551
+Synch: Sending query: time=?;720
+Received reply: time=;1146626016774;720
+Synch Success: SAftr=1146626016803, SBfr=1146626016762, D=20, M=1146626016774
+Scheduled a DoS to fire after 204ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626017003 552
+Synch: Sending query: time=?;721
+Received reply: time=;1146626017137;721
+Synch Success: SAftr=1146626017167, SBfr=1146626017127, D=20, M=1146626017137
+Scheduled a DoS to fire after 341ms
+Synch: Sending query: time=?;722
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626017502 553
+Received reply: time=;1146626017517;722
+Synch Success: SAftr=1146626017552, SBfr=1146626017501, D=25, M=1146626017517
+Scheduled a DoS to fire after 455ms
+Synch: Sending query: time=?;723
+Received reply: time=;1146626017898;723
+Synch Success: SAftr=1146626017933, SBfr=1146626017883, D=25, M=1146626017898
+Scheduled a DoS to fire after 77ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626018003 554
+Synch: Sending query: time=?;724
+Received reply: time=;1146626018270;724
+Synch Success: SAftr=1146626018301, SBfr=1146626018259, D=21, M=1146626018270
+Scheduled a DoS to fire after 197ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626018501 555
+Synch: Sending query: time=?;725
+Received reply: time=;1146626018645;725
+Synch Success: SAftr=1146626018675, SBfr=1146626018635, D=20, M=1146626018645
+Scheduled a DoS to fire after 332ms
+Synch: Sending query: time=?;726
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626019002 556
+Received reply: time=;1146626019012;726
+Synch Success: SAftr=1146626019043, SBfr=1146626019001, D=21, M=1146626019012
+Scheduled a DoS to fire after 463ms
+Synch: Sending query: time=?;727
+Received reply: time=;1146626019380;727
+Synch Success: SAftr=1146626019410, SBfr=1146626019370, D=20, M=1146626019380
+Scheduled a DoS to fire after 97ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626019503 557
+Synch: Sending query: time=?;728
+Received reply: time=;1146626019746;728
+Synch Success: SAftr=1146626019776, SBfr=1146626019735, D=20, M=1146626019746
+Scheduled a DoS to fire after 233ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626020001 558
+Synch: Sending query: time=?;729
+Received reply: time=;1146626020108;729
+Synch Success: SAftr=1146626020141, SBfr=1146626020098, D=21, M=1146626020108
+Scheduled a DoS to fire after 371ms
+Synch: Sending query: time=?;730
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626020502 559
+Received reply: time=;1146626020489;730
+Synch Success: SAftr=1146626020523, SBfr=1146626020473, D=25, M=1146626020489
+Scheduled a DoS to fire after 484ms
+Synch: Sending query: time=?;731
+Received reply: time=;1146626020873;731
+Synch Success: SAftr=1146626020907, SBfr=1146626020856, D=25, M=1146626020873
+Scheduled a DoS to fire after 101ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626021003 560
+Synch: Sending query: time=?;732
+Received reply: time=;1146626021255;732
+Synch Success: SAftr=1146626021289, SBfr=1146626021240, D=24, M=1146626021255
+Scheduled a DoS to fire after 209ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626021502 561
+Synch: Sending query: time=?;733
+Received reply: time=;1146626021632;733
+Synch Success: SAftr=1146626021662, SBfr=1146626021622, D=20, M=1146626021632
+Scheduled a DoS to fire after 346ms
+Synch: Sending query: time=?;734
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626022003 562
+Received reply: time=;1146626021997;734
+Synch Success: SAftr=1146626022027, SBfr=1146626021987, D=20, M=1146626021997
+Scheduled a DoS to fire after 479ms
+Synch: Sending query: time=?;735
+Received reply: time=;1146626022362;735
+Synch Success: SAftr=1146626022392, SBfr=1146626022352, D=20, M=1146626022362
+Scheduled a DoS to fire after 116ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626022501 563
+Synch: Sending query: time=?;736
+Received reply: time=;1146626022733;736
+Synch Success: SAftr=1146626022762, SBfr=1146626022723, D=19, M=1146626022733
+Scheduled a DoS to fire after 247ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626023002 564
+Synch: Sending query: time=?;737
+Received reply: time=;1146626023096;737
+Synch Success: SAftr=1146626023126, SBfr=1146626023085, D=20, M=1146626023096
+Scheduled a DoS to fire after 381ms
+Synch: Sending query: time=?;738
+Received reply: time=;1146626023464;738
+Synch Success: SAftr=1146626023495, SBfr=1146626023453, D=21, M=1146626023464
+Scheduled a DoS to fire after 14ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626023501 565
+Synch: Sending query: time=?;739
+Received reply: time=;1146626023843;739
+Synch Success: SAftr=1146626023878, SBfr=1146626023825, D=26, M=1146626023843
+Scheduled a DoS to fire after 130ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626024002 566
+Synch: Sending query: time=?;740
+Received reply: time=;1146626024223;740
+Synch Success: SAftr=1146626024253, SBfr=1146626024206, D=23, M=1146626024223
+Scheduled a DoS to fire after 251ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626024509 567
+Synch: Sending query: time=?;741
+Received reply: time=;1146626024594;741
+Synch Success: SAftr=1146626024634, SBfr=1146626024577, D=28, M=1146626024594
+Scheduled a DoS to fire after 376ms
+Synch: Sending query: time=?;742
+Received reply: time=;1146626024976;742
+Synch Success: SAftr=1146626025006, SBfr=1146626024958, D=24, M=1146626024976
+Scheduled a DoS to fire after 499ms
+Synch: Sending query: time=?;743
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626025502 568
+Received reply: time=;1146626025339;743
+Synch Success: SAftr=1146626025619, SBfr=1146626025329, D=145, M=1146626025339
+Scheduled a DoS to fire after 497ms
+Synch: Sending query: time=?;744
+Received reply: time=;1146626025971;744
+Synch Success: SAftr=1146626026005, SBfr=1146626025961, D=22, M=1146626025971
+Scheduled a DoS to fire after 6ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626026008 569
+Synch: Sending query: time=?;745
+Received reply: time=;1146626026350;745
+Synch Success: SAftr=1146626026380, SBfr=1146626026340, D=20, M=1146626026350
+Scheduled a DoS to fire after 122ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626026503 570
+Synch: Sending query: time=?;746
+Received reply: time=;1146626026720;746
+Synch Success: SAftr=1146626026750, SBfr=1146626026710, D=20, M=1146626026720
+Scheduled a DoS to fire after 256ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626027007 571
+Synch: Sending query: time=?;747
+Received reply: time=;1146626027087;747
+Synch Success: SAftr=1146626027117, SBfr=1146626027076, D=20, M=1146626027087
+Scheduled a DoS to fire after 392ms
+Synch: Sending query: time=?;748
+Received reply: time=;1146626027451;748
+Synch Success: SAftr=1146626027482, SBfr=1146626027441, D=20, M=1146626027451
+Scheduled a DoS to fire after 28ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626027503 572
+Synch: Sending query: time=?;749
+Received reply: time=;1146626027817;749
+Synch Success: SAftr=1146626027847, SBfr=1146626027805, D=21, M=1146626027817
+Scheduled a DoS to fire after 160ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626028001 573
+Synch: Sending query: time=?;750
+Received reply: time=;1146626028190;750
+Synch Success: SAftr=1146626028226, SBfr=1146626028172, D=27, M=1146626028190
+Scheduled a DoS to fire after 278ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626028507 574
+Synch: Sending query: time=?;751
+Received reply: time=;1146626028570;751
+Synch Success: SAftr=1146626028612, SBfr=1146626028559, D=26, M=1146626028570
+Scheduled a DoS to fire after 402ms
+Synch: Sending query: time=?;752
+Received reply: time=;1146626028946;752
+Synch Success: SAftr=1146626028976, SBfr=1146626028936, D=20, M=1146626028946
+Scheduled a DoS to fire after 32ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626029005 575
+Synch: Sending query: time=?;753
+Received reply: time=;1146626029339;753
+Synch Success: SAftr=1146626029373, SBfr=1146626029317, D=28, M=1146626029339
+Scheduled a DoS to fire after 125ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626029501 576
+Synch: Sending query: time=?;754
+Received reply: time=;1146626029717;754
+Synch Success: SAftr=1146626029746, SBfr=1146626029706, D=20, M=1146626029717
+Scheduled a DoS to fire after 261ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626030002 577
+Synch: Sending query: time=?;755
+Received reply: time=;1146626030080;755
+Synch Success: SAftr=1146626030109, SBfr=1146626030070, D=19, M=1146626030080
+Scheduled a DoS to fire after 397ms
+Synch: Sending query: time=?;756
+Received reply: time=;1146626030445;756
+Synch Success: SAftr=1146626030476, SBfr=1146626030435, D=20, M=1146626030445
+Scheduled a DoS to fire after 30ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626030501 578
+Synch: Sending query: time=?;757
+Received reply: time=;1146626030814;757
+Synch Success: SAftr=1146626030844, SBfr=1146626030804, D=20, M=1146626030814
+Scheduled a DoS to fire after 163ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626031002 579
+Synch: Sending query: time=?;758
+Received reply: time=;1146626031183;758
+Synch Success: SAftr=1146626031213, SBfr=1146626031173, D=20, M=1146626031183
+Scheduled a DoS to fire after 292ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626031501 580
+Synch: Sending query: time=?;759
+Received reply: time=;1146626031551;759
+Synch Success: SAftr=1146626031580, SBfr=1146626031539, D=20, M=1146626031551
+Scheduled a DoS to fire after 424ms
+Synch: Sending query: time=?;760
+Received reply: time=;1146626031917;760
+Synch Success: SAftr=1146626031947, SBfr=1146626031907, D=20, M=1146626031917
+Scheduled a DoS to fire after 59ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626032003 581
+Synch: Sending query: time=?;761
+Received reply: time=;1146626032296;761
+Synch Success: SAftr=1146626032330, SBfr=1146626032280, D=25, M=1146626032296
+Scheduled a DoS to fire after 172ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626032501 582
+Synch: Sending query: time=?;762
+Received reply: time=;1146626032671;762
+Synch Success: SAftr=1146626032706, SBfr=1146626032658, D=24, M=1146626032671
+Scheduled a DoS to fire after 264ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626033001 583
+Synch: Sending query: time=?;763
+Received reply: time=;1146626033079;763
+Synch Success: SAftr=1146626033109, SBfr=1146626033069, D=20, M=1146626033079
+Scheduled a DoS to fire after 398ms
+Synch: Sending query: time=?;764
+Received reply: time=;1146626033444;764
+Synch Success: SAftr=1146626033474, SBfr=1146626033434, D=20, M=1146626033444
+Scheduled a DoS to fire after 30ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626033502 584
+Synch: Sending query: time=?;765
+Received reply: time=;1146626033813;765
+Synch Success: SAftr=1146626033844, SBfr=1146626033802, D=21, M=1146626033813
+Scheduled a DoS to fire after 163ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626034002 585
+Synch: Sending query: time=?;766
+Received reply: time=;1146626034182;766
+Synch Success: SAftr=1146626034213, SBfr=1146626034172, D=20, M=1146626034182
+Scheduled a DoS to fire after 295ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626034502 586
+Synch: Sending query: time=?;767
+Received reply: time=;1146626034547;767
+Synch Success: SAftr=1146626034577, SBfr=1146626034537, D=20, M=1146626034547
+Scheduled a DoS to fire after 432ms
+Synch: Sending query: time=?;768
+Received reply: time=;1146626034910;768
+Synch Success: SAftr=1146626034940, SBfr=1146626034900, D=20, M=1146626034910
+Scheduled a DoS to fire after 63ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626035002 587
+Synch: Sending query: time=?;769
+Received reply: time=;1146626035279;769
+Synch Success: SAftr=1146626035311, SBfr=1146626035269, D=21, M=1146626035279
+Scheduled a DoS to fire after 196ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626035501 588
+Synch: Sending query: time=?;770
+Received reply: time=;1146626035655;770
+Synch Success: SAftr=1146626035687, SBfr=1146626035637, D=25, M=1146626035655
+Scheduled a DoS to fire after 318ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626036001 589
+Synch: Sending query: time=?;771
+Received reply: time=;1146626036021;771
+Synch Success: SAftr=1146626036060, SBfr=1146626036011, D=24, M=1146626036021
+Scheduled a DoS to fire after 453ms
+Synch: Sending query: time=?;772
+Received reply: time=;1146626036394;772
+Synch Success: SAftr=1146626036423, SBfr=1146626036383, D=20, M=1146626036394
+Scheduled a DoS to fire after 84ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626036501 590
+Synch: Sending query: time=?;773
+Received reply: time=;1146626036758;773
+Synch Success: SAftr=1146626036788, SBfr=1146626036747, D=20, M=1146626036758
+Scheduled a DoS to fire after 219ms
+UDP packet sent to 67.168.70.86
+DOS THREAD: SEND DoS PACKET At :1146626037005 591
+DoS Attack lifetime has expired. Shutting down slave...
+SYNCHRONIZATION STATISTICS
+--------------------------------------------------------------
+--------------------------------------------------------------
+ Time Synch Messages SENT to Master:
+	 Successive Synch Requests sent : 768
+	 Retry Synch Requests sent      : 5
+	 TOTAL SYNCH Requests sent      : 773
+--------------------------------------------------------------
+ Time Synch Messages RECEIVED from Master:
+	 Synch Replies Received On-time : 773
+	 [These are replies received [on-time] before a new synch request was scheduled]
+Synch: Sending query: time=?;774
+		 Successful Synch Replies received         : 768
+		 Synch Replies received with D > U         : 0
+		 Synch Replies received with seq# mismatch : 5
+	 Synch Replies lost/discarded   : 1
+	 [These are replies lost due to communication failure or ignored]
+---------------------------------------------------------------
+ Synchronization Success Rate ~= 99%
+ Clock was synchronized 768 times in 5minute(s)
+	 Average gap between clock synchs ~= 390milliseconds
+--------------------------------------------------------------
+--------------------------------------------------------------
+Total DoS Packets Sent : 591
